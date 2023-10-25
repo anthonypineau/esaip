@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This website is for professionnal purposes to have a clearer view of a project">
+    <link rel="stylesheet" href="./src/css/style.min.css" media="print">
+    <link rel="stylesheet" href="./src/css/style.min.css" media="screen">
+    <link rel="shortcut icon" href="./assets/favicon_16x16.png" type="image/x-icon" sizes="16x16">
+    <link rel="shortcut icon" href="./assets/favicon_32x32.png" type="image/x-icon" sizes="32x32">
+    <link rel="shortcut icon" href="./assets/favicon_96x96.png" type="image/x-icon" sizes="96x96">
+    <title>Design4Green</title>
+</head>
+<body>
+    <header>
+        <div class="header">
+            <h1>Design4Green - Team 13</h1>
+        </div>
+    </header>
+    <main class="main">
+        <div class="info">
+            Créez votre site eco-responsable étape par étape !<br>
+            Les incontournables sont déjà sélectionnés. Veuillez choisir vos autres critères.<br>
+            Puis cliquez sur le bouton valider pour générer le tableau type GANTT.
+        </div>
+        <div class="clear">
+            <div class="resize">
+                <div id="myBtnContainer">
+                    <button class="btn active" id="all">Tout</button>
+                    <button class="btn" id="strategie">Stratégie</button>
+                    <button class="btn" id="specifications">Spécifications</button>
+                    <button class="btn" id="ux">UX/UI</button>
+                    <button class="btn" id="contenus">Contenus</button>
+                    <button class="btn" id="front">Front-end</button>
+                    <button class="btn" id="architecture">Architecture</button>
+                    <button class="btn" id="back">Back-end</button>
+                    <button class="btn" id="selected">Panier</button>
+                    <a href="#table"><button class="right submit button">Valider</button></a>
+                </div>
+                <div id="listeBP" class="container">
+
+                </div>
+                <a href="#table"><button class="button submit">Valider</button></a>
+            </div>
+        </div>
+        <div id="table" class="table">
+
+        </div>
+    </main>
+    <script src="./src/js/main.min.js"></script>
+</body>
+</html>

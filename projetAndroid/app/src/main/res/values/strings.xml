@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Réservation des menus</string>
+    <!--<string name="menuConnexion">Connexion</string>-->
+    <string name="textViewTitle">Affichage de la liste des menus</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="textViewId">ID : </string>
+    <string name="textViewDisplayId">id</string>
+    <string name="textViewStarter">Entrée : </string>
+    <string name="textViewDsiplayStarter">entree</string>
+    <string name="textViewMain">Plat : </string>
+    <string name="textViewDisplayMain">plat</string>
+    <string name="textViewDessert">Dessert : </string>
+    <string name="textViewDisplayDessert">dessert</string>
+
+    <string name="buttonBackHome">Revenir à la liste des menus</string>
+    <string name="buttonAddMenu">Ajouter un menu</string>
+    <string name="textViewTitleMenu">Détails du menu</string>
+    <string name="textViewTitleAddMenu">Ajouter un menu</string>
+    <string name="buttonAddMenuAddMenu">Ajouter le menu</string>
+    <string name="buttonDeleteMenu">Supprimer le menu</string>
+    <string name="buttonAddToCart">Passer commande</string><!-- Ajouter le menu au panier -->
+
+    <string name="textViewOrdersTitle">Liste de vos commandes</string>
+
+    <string name="textViewCreneau">Créneau horaire : </string>
+
+    <string name="textViewConnexion">Authentification</string>
+    <string name="textViewLogin">Identifiant</string>
+    <string name="textViewMdp">Mot de passe</string>
+    <string name="buttonConnexion">Connexion</string>
+    <string name="buttonAuthentification">Authentification</string>
+    <string name="buttonRetour">Retour</string>
+
+
+</resources>

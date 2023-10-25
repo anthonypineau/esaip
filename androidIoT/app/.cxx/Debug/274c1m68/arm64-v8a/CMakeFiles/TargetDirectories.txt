@@ -1,0 +1,3 @@
+C:/Users/Anthony/Desktop/NativeBarcodeTracker/app/.cxx/Debug/274c1m68/arm64-v8a/CMakeFiles/native-tracker.dir
+C:/Users/Anthony/Desktop/NativeBarcodeTracker/app/.cxx/Debug/274c1m68/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Anthony/Desktop/NativeBarcodeTracker/app/.cxx/Debug/274c1m68/arm64-v8a/CMakeFiles/rebuild_cache.dir

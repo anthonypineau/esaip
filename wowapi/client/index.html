@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./src/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>WoW - API</title>
+</head>
+<body>
+    <div class="nav" id="nav">
+        <a class="active" onclick="onClickLink('players', 'player', true)">Home</a>
+        <a onclick="onClickLink('classes', 'class', true)">Classes</a>
+        <a onclick="onClickLink('itemClasses', 'item class', false)">Item classes</a>
+        <a onclick="onClickLink('items', 'item', true)">Items</a>
+        <a onclick="onClickLink('mounts', 'mount', true)">Mounts</a>
+        <a onclick="onClickLink('professions', 'profession', true)">Professions</a>
+        <a onclick="onClickLink('races', 'race', false)">Races</a>
+        <a onclick="onClickStatistics()">Statistics/Reports</a>
+        <a onclick="onClickAbout()">About</a>
+        <a style="float:right" onclick="onClickAdministration()" id="buttonAdministration">Administration</a>
+        <a href="javascript:void(0);" class="icon" onclick="responsiveNav()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
+    <div id="app">
+        
+    </div>
+    <footer>
+        <p>Copyright 2021</p>
+    </footer>
+    <script src="./src/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NativeBarcodeTracker</string>
+    <string name="activty_config_ipAddressTexView">IP du serveur :</string>
+    <string name="activty_config_portTexView">Port du serveur :</string>
+    <string name="activty_config_ipAddressEditText">192.168.158.197</string>
+    <string name="activty_config_portEditText">3009</string>
+    <string name="activty_config_startButton">Start</string>
+</resources>

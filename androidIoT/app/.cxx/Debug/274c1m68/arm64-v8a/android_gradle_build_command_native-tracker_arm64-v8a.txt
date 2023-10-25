@@ -1,0 +1,7 @@
+Executable : C:\Users\Anthony\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Anthony\Desktop\NativeBarcodeTracker\app\.cxx\Debug\274c1m68\arm64-v8a
+native-tracker
+jvmArgs : 
+

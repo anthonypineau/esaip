@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>GreenIT | Calculatrice</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" href="./src/css/style.min.css" />
+        <!--<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">-->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    </head>
+    <body>
+        <header>
+            <img src="./assets/planet-earth.png" alt="Planète terre">
+            <h1>CALCUL DE MON IMPACT ENVIRONNEMENTAL PROFESSIONNEL</h1>
+        </header>
+        <div>
+            <div>
+                <h2>TRANSPORT</h2>
+                <div class="gridContainer">
+                    <div class="gridItem legend">Trajets entre domicile et travail et trajets entre travail et chez le client</div>
+                    <div class="gridItem legend">Veuillez choisir vos trois moyens de transport principaux (si vous en avez moins, laissez à 0)</div>
+                    <div class="gridItem">
+                        <label for="transportation1">Moyen de transport</label>
+                        <select id="transportation1" class="transportation"></select>
+                    </div>
+                    <div class="gridItem">
+                            <label for="transportHours1">Nombre de kilomètres parcourus pour le travail (par an)</label>
+                            <input type="number" id="transportHours1" class="transportHours" value="0" min="0">
+                    </div>
+                    <div class="gridItem legend">Empreinte moyen de transport n°1</div>
+                    <div id="transport1" class="gridItem center bold">0</div>
+                    <div class="gridItem">
+                            <label for="transportation2">Moyen de transport</label>
+                            <select id="transportation2" class="transportation"></select>
+                    </div>
+                    <div class="gridItem">
+                        <label for="transportHours2">Nombre de kilomètres parcourus pour le travail (par an)</label>
+                        <input type="number" id="transportHours2" class="transportHours" value="0" min="0">
+                    </div>
+                    <div class="gridItem legend">Empreinte moyen de transport n°2</div>
+                    <div id="transport2" class="gridItem center bold">0</div>
+                    <div class="gridItem">
+                        <label class="transportation3">Moyen de transport</label>
+                        <select id="transportation3" class="transportation"></select>
+                    </div>
+                    <div class="gridItem">
+                        <label class="transportHours3">Nombre de kilomètres parcourus pour le travail (par an)</label>
+                        <input type="number" id="transportHours3" class="transportHours" value="0" min="0">
+                    </div>
+                    <div class="gridItem legend">Empreinte moyen de transport n°3</div>
+                    <div id="transport3" class="gridItem center bold">0</div>
+                    <div class="gridItem legend">Total des moyens de transport</div>
+                    <div id="transportTotal"class="gridItem center bold">0</div>
+                </div>
+            </div>
+            <div>
+                <h2>ÉQUIPEMENTS NUMÉRIQUES</h2>
+                <div class="gridContainer">
+                    <div class="gridItem">
+                        <label for="pa">Consommation moyenne en mode actif (Watts)</label>
+                        <input type="number" class="computer" id="pa" value="0" min="0">
+                    </div>
+                    <div class="gridItem">
+                        <label for="ha">Heure d'opération en mode actif (heures/semaine)</label>
+                        <input type="number" class="computer" id="ha" value="0" min="0">
+                    </div>
+                    <div class="gridItem">
+                        <label for="pl">Consommation moyenne en mode veille (Watts)</label>
+                        <input type="number" class="computer" id="pl" value="0" min="0">
+                    </div>
+                    <div class="gridItem">
+                        <label for="hl">Heure d'opération en mode veille (heures/semaine)</label>
+                        <input type="number" class="computer" id="hl" value="0" min="0">
+                    </div>
+                    <div class="gridItem">
+                        <label for="po">Consommation moyenne en mode arrêt (Watts)</label>
+                        <input type="number" class="computer" id="po" value="0" min="0">
+                    </div>
+                    <div class="gridItem">
+                        <label for="ho">Heure d'opération en mode arrêt (heures/semaine)</label>
+                        <input type="number" class="computer" id="ho" value="0" min="0">
+                    </div>
+                    <div class="gridItem legend">Consommation de l'ordinateur</div>
+                    <div id="computerTotal" class="gridItem center bold">0</div>
+                    <div class="gridItem">
+                        <label for="screen">Nombre d'écrans</label>
+                        <select id="screen">
+                            <option value="0">0</option>
+                            <option value="154">1</option>
+                            <option value="308">2</option>
+                            <option value="463">3</option>
+                        </select>
+                    </div>
+                    <div class="gridItem">
+
+                    </div>
+                    <div class="gridItem legend">Consommation de l'écran (des écrans)</div>
+                    <div id="screenTotal" class="gridItem center bold">0</div>
+                    <div class="gridItem">
+                        <label for="phone">Ai-je un smartphone ?</lab>
+                        <select id="phone">
+                            <option value="15">Oui</option>
+                            <option value="0">Non</option>
+                        </select>
+                    </div>
+                    <div class="gridItem">
+
+                    </div>
+                    <div class="gridItem legend">Consommation du smartphone</div>
+                    <div id="phoneValue" class="gridItem center bold">15</div>
+                    <div class="gridItem legend">Consommation totale des équipements</div>
+                    <div id="devicesTotal" class="gridItem center bold">15</div>
+                </div>
+            </div>
+            <div>
+                <h2>COMMUNICATION</h2>
+                <div class="gridContainer">
+                    <div class="gridItem">
+                        <label for="cloud">Mon stockage Cloud en Go</label><!-- 120g Co2/Go stocké -->
+                        <input type="number" id="cloud" min="0">
+                    </div>
+                    <div id="cloudValue" class="gridItem  center bold">0</div>
+                    <div class="gridItem">
+                        <label for="emails">Nombre d'emails envoyés par jour</label>
+                        <select id="emails">
+                            <option value="32">1 -> 10</option>
+                            <option value="64">11 -> 20</option>
+                            <option value="129">21 -> 40</option>
+                            <option value="226">+ 40</option>
+                        </select>
+                    </div>
+                    <div id="emailTotal" class="gridItem center bold">32</div>
+                    <div class="gridItem">
+                        <label for="paper">Nombre d'impressions</label><!-- 5g Co2/feuillea4-->
+                        <input type="number" id="paper" min="0">
+                    </div>
+                    <div id="paperValue" class="gridItem center bold">0</div>
+                    <div class="gridItem legend">Total communication</div>
+                    <div id="cloudTotal" class="gridItem  center bold">32</div>
+                </div>
+            </div>
+            <div id="footer">
+                <div class="impactTotal" id="firstRow">
+                    <div class="divSubTotal">
+                        <h3>Mon impact numérique</h3>
+                        <div id="impactNumerique" class="subtotal">47</div>KG eq CO2
+                    </div>
+                    <div class="divSubTotal">
+                        <h3>Mon impact déplacement</h3>
+                        <div id="impactDeplacement" class="subtotal">0</div>KG eq CO2
+                    </div>
+                </div>
+                <div class="impactTotal">
+                    <div class="divSubTotal div_total">
+                        <h3>Impact annuel</h3>
+                        <div id="impactTotal" class="subtotal total">47</div>KG eq CO2
+                    </div>
+                </div>
+                <!--
+                <div id="lastRow">
+                    <div class="divEquiv">                
+                        <div class="image">
+                            <img src="./assets/tree.png" alt="icône représentant un arbre" />
+                        </div>
+                        <div class="impactTotal">
+                            <div class="divSubTotal divEquivTotal">
+                                <h3>Nombre d'arbres pour compenser mon impact Co2</h3>
+                                <span id="trees" class="subtotal">0</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="divEquiv">
+                        <div class="image">
+                            <img src="./assets/idea.png" alt="icône représentant une amoule allumée" />
+                        </div>
+                        <div class="impactTotal">
+                            <div class="divSubTotal divEquivTotal">
+                                <h3>Une ampoule allumée pendant</h3>
+                                <span id="bulb" class="subtotal">0</span>
+                                <span>an(s)</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="divEquiv">
+                        <div class="image">
+                            <img src="./assets/fleece.png" alt="icône d'une veste polaire" />
+                        </div>
+                        <div class="impactTotal">
+                            <div class="divSubTotal divEquivTotal">
+                                <h3>Production de polaires Forclaz 50</h3>
+                                <span id="polaire" class="subtotal">0</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                -->
+            </div>
+        </div>
+        <footer>
+            <p>Copyright 2021 - Peexinelle</p>
+        </footer>
+        <script src="./src/js/main.min.js"></script>
+    </body>
+</html>

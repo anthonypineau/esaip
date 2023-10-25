@@ -1,0 +1,1012 @@
+[
+  {
+    "name": "Le besoin métier est exprimé.",
+    "category": "strategie",
+    "incontournable": true,
+    "keystep": "Cadrage projet",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Expression rédigée et validée = 100-Expression formalisée = 75-Tacite = 30-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les objectifs Numérique Responsable sont exposés clairement et partagés par toutes les parties prenantes, internes ou externes à l'organisation.",
+    "category": "strategie",
+    "incontournable": false,
+    "keystep": "Emergence",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Informations diffusées",
+    "indicatorY": "Parties prenantes"
+  },
+  {
+    "name": "Les réunions sont limitées au strict minimum, en privilégiant le distanciel, lorsque les réunions nécessitenet des déplacements physiques.",
+    "category": "strategie",
+    "incontournable": false,
+    "keystep": "Cadrage projet",
+    "lifecycle": "Aucune phase",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Distance de la réunion",
+    "indicatorY": "Total de réunions"
+  },
+  {
+    "name": "La solution retenue est la plus respectueuse de l'environnement.",
+    "category": "strategie",
+    "incontournable": false,
+    "keystep": "Cadrage projet",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Oui = 100-Partiel = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Nous avons les personnes avec les compétences techniques les plus pertinentes pour chaque élément du projet.",
+    "category": "strategie",
+    "incontournable": false,
+    "keystep": "Emergence",
+    "lifecycle": "Aucune phase",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formés au NR",
+    "indicatorY": "Membre équipe"
+  },
+  {
+    "name": "Le projet avec une démarche Numérique Responsable répond réellement aux besoins de mes clients.",
+    "category": "strategie",
+    "incontournable": false,
+    "keystep": "Emergence",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Abordée = 100-Partielle = 50-Non traitée = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Je peux recycler des briques logicielles ou du contenu existant.",
+    "category": "strategie",
+    "incontournable": false,
+    "keystep": "Cadrage projet",
+    "lifecycle": "Revalorisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Volume réutilsé",
+    "indicatorY": "Fonctionnalités"
+  },
+  {
+    "name": "La durée de vie du projet est définie.",
+    "category": "strategie",
+    "incontournable": false,
+    "keystep": "Emergence",
+    "lifecycle": "Fin de vie",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Chacune des phases du cycle de vie sont identfiées avec des actions spécifiques.",
+    "category": "strategie",
+    "incontournable": false,
+    "keystep": "Cadrage projet",
+    "lifecycle": "Revalorisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les parties prenantes internes et externes sont sensibilisées au Numérique Responsable.",
+    "category": "strategie",
+    "incontournable": true,
+    "keystep": "Equipe projet",
+    "lifecycle": "Aucune phase",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Sensibilisations NR",
+    "indicatorY": "Membre équipe"
+  },
+  {
+    "name": "Les enjeux Numérique Responsable ont été communiqués à l'équipe dès l'origine.",
+    "category": "specifications",
+    "incontournable": true,
+    "keystep": "Equipe projet",
+    "lifecycle": "Aucune phase",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Enjeux NR communiqués",
+    "indicatorY": "Membre équipe"
+  },
+  {
+    "name": "Chaque entité de l'équipe Projet dispose des compétences Numérique Responsable.",
+    "category": "specifications",
+    "incontournable": true,
+    "keystep": "Equipe projet",
+    "lifecycle": "Aucune phase",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Plan de formation NR = 100-Mise à dispo de ressources NR = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "La majorité des fonctionnalités ont une composante Numérique Responsable.",
+    "category": "specifications",
+    "incontournable": true,
+    "keystep": "Méthodologie projet",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Nombre US avec info NR",
+    "indicatorY": "Nombre US"
+  },
+  {
+    "name": "Les profils cibles sont définis.",
+    "category": "specifications",
+    "incontournable": false,
+    "keystep": "Utilisateurs et clients",
+    "lifecycle": "Conception",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Les aspects numérique responsable sont propagés et entretenus sur l'ensemble des profils utilisateurs.",
+    "category": "specifications",
+    "incontournable": false,
+    "keystep": "Utilisateurs et clients",
+    "lifecycle": "Réalisation",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Chaque fonctionnalité est évaluée par rapport aux usages.",
+    "category": "specifications",
+    "incontournable": false,
+    "keystep": "Méthodologie projet",
+    "lifecycle": "Conception",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "L'état des lieux des données d'entrée est mis à disposition afin d'être réutilisé dans d'autres projets.",
+    "category": "specifications",
+    "incontournable": false,
+    "keystep": "Production",
+    "lifecycle": "Revalorisation",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "La sécurité est adaptée à la valeur de mes données.",
+    "category": "specifications",
+    "incontournable": false,
+    "keystep": "Environnement externe",
+    "lifecycle": "Administration",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Le service est conforme au RGPD.",
+    "category": "specifications",
+    "incontournable": false,
+    "keystep": "Environnement externe",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Le produit cible à une durée de vie déterminée.",
+    "category": "specifications",
+    "incontournable": false,
+    "keystep": "Gestion du cycle de vie",
+    "lifecycle": "Fin de vie",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les postes de travail font l'object d'une gestion de cycle de vie.",
+    "category": "specifications",
+    "incontournable": false,
+    "keystep": "Déploiement",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Dans les ressources techniques du projet les gestions de dépendances sont prises en compte, pour limiter l'obésité des solutions techniques employées.",
+    "category": "specifications",
+    "incontournable": false,
+    "keystep": "Evolutions",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Analyses de dépendances",
+    "indicatorY": "Solutions techniques"
+  },
+  {
+    "name": "Des exigences d'engagement Numérique Responsable sont démandées aux prestataires externes dans le processus d'achat.",
+    "category": "specifications",
+    "incontournable": true,
+    "keystep": "Processus économique",
+    "lifecycle": "Acquisition",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Exigences NR dans AO",
+    "indicatorY": "Appel d'offres"
+  },
+  {
+    "name": "Les données et procédures spécifiées ont toutes une information de fin de vie.",
+    "category": "specifications",
+    "incontournable": true,
+    "keystep": "Gestion du cycle de vie",
+    "lifecycle": "Fin de vie",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Dans les méthodes d'idéation, l'ensemble des parties prenantes est pris en compte dans toute sa dimension humaine.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "Méthodologie",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "La planète est prise en compte dans les méthodes d'idéation pour intégrer la dimension écologique.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "Méthodologie",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les plus-values extra-financières du numérique responsable sont valorisées dans le business model.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "Méthodologie",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "La production des livrables (production documentaire comprise) est utilisée en amont du projet et est produite pour permettre d'être réutilisée dans les projets suivants.",
+    "category": "ux",
+    "incontournable": false,
+    "keystep": "Ressources Projet",
+    "lifecycle": "Revalorisation",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Les parties prenantes sont sensibilisées au Numérique Responsable.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "Ressources Projet",
+    "lifecycle": "Aucune phase",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Sensibilisations NR",
+    "indicatorY": "Membre équipe"
+  },
+  {
+    "name": "Une stratégie de compatibilité avec les terminaux et versions logicielles obsolètes est définie.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "Méthodologie",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Le service fonctionne avec des connexions faibles.",
+    "category": "ux",
+    "incontournable": false,
+    "keystep": "Méthodologie",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Un planning d'archivage et une version allégée des contenus anciens consultables sont mis en oeuvre.",
+    "category": "ux",
+    "incontournable": false,
+    "keystep": "Usage",
+    "lifecycle": "Fin de vie",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Volume supprimé",
+    "indicatorY": "Volume des contenus inactifs"
+  },
+  {
+    "name": "L'expérience utilisateur prend en compte les évolutions possible du service (ajout/suppression de fonctionnalités).",
+    "category": "ux",
+    "incontournable": false,
+    "keystep": "UI",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50- No = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les recherches les plus fréquentes ont été étuidées et adressées pour qu'elles soient ou mises en cache ou affichées à l'utilisateur sans envoi de requête ou clics inutiles.",
+    "category": "ux",
+    "incontournable": false,
+    "keystep": "Technologie",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Sollicitation des caches",
+    "indicatorY": "Requètes de recherche"
+  },
+  {
+    "name": "Les vidéos et animations sont utilisées uniquement lorsqu'elles apportent une valeur pour l'utilisateur.",
+    "category": "ux",
+    "incontournable": false,
+    "keystep": "UI",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Vidéos analysées",
+    "indicatorY": "Vidéos"
+  },
+  {
+    "name": "Les images sont optimisées par rapport à leurs fonctions.",
+    "category": "ux",
+    "incontournable": false,
+    "keystep": "UI",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Images analysées",
+    "indicatorY": "Images"
+  },
+  {
+    "name": "La dématérialisation du service est complète ou dans le cas où la production de documents papier est indispensable, elle est conçue pour limiter son impact au minimum.",
+    "category": "ux",
+    "incontournable": false,
+    "keystep": "Usage",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les mécanismes d'accès au service d'assistance sont disponibles et sont adaptés à tout public.",
+    "category": "ux",
+    "incontournable": false,
+    "keystep": "Méthodologie",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Tout type d'utilisateur peut savoir facilement où il se trouve dans le service, par la mise en place d'un système de navigation inclusif.",
+    "category": "ux",
+    "incontournable": false,
+    "keystep": "Usages",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Dès la conception, le service répond aux normes d'accesssibilité en vigueur (au mininmum).",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "Méthodologie",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Une sobriété visuelle est mise en place, pour limiter les ressources énergétiques et l'impact sur la dégradation matérielle des composants visuels, sonores et tactiles constitutifs de l'interface.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "UI",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les fonctionnalités sont utilisées par l'utilisateur.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "Méthodologie",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Validations d'utilisation",
+    "indicatorY": "Fonctionnalités"
+  },
+  {
+    "name": "Une politique de gestion/utilisation des médias afin de réduire leurs impacts est en place avec des critères de compression et de formats des médias.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "UI",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Media compressés",
+    "indicatorY": "Supports media"
+  },
+  {
+    "name": "Le nombre de polices de caractères (fonts) et les variantes de polices appelées (graisse, caractères utilisés dans le projet) sont limités.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "UI",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Moins de 3 polices = 100-3-5 polices = 50-Plus de 5 = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Le service évite les Dark Patterns.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "Méthodologie",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Des règles en matière de respect de l'utilisateur sont mises en places.",
+    "category": "ux",
+    "incontournable": true,
+    "keystep": "Usage",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les balises de mise en forme de texte répondent au besoin de hiérarchisation des informations, et pas à des mises en valeur de présentation.",
+    "category": "contenus",
+    "incontournable": true,
+    "keystep": "Texte",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Tags analysés",
+    "indicatorY": "Tags Hx"
+  },
+  {
+    "name": "Les images ont été compressées en amont dans un format adapté pour sa visualisation.",
+    "category": "contenus",
+    "incontournable": true,
+    "keystep": "Images",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Images compressées",
+    "indicatorY": "Images"
+  },
+  {
+    "name": "L'information portée par la vidéo peut être remplacée par une alternative (infographie...).",
+    "category": "contenus",
+    "incontournable": true,
+    "keystep": "Vidéos",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Vidéos analysées",
+    "indicatorY": "Vidéos"
+  },
+  {
+    "name": "Les documents à télécharger sont compressés, optimisés et accessibles.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Téléchargements",
+    "lifecycle": "Déploiement",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Documents compressés",
+    "indicatorY": "Documents disponibles"
+  },
+  {
+    "name": "Les urls de destination sont bien valides.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Liens hypertexte",
+    "lifecycle": "Administration",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Liens validés",
+    "indicatorY": "Liens"
+  },
+  {
+    "name": "Tous les liens et images-liens sont utiles.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Liens hypertexte",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Liens validés",
+    "indicatorY": "Liens"
+  },
+  {
+    "name": "Les contenus sont uniques dans tout le service.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Texte",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Contenus uniques",
+    "indicatorY": "Contenus"
+  },
+  {
+    "name": "On privilégie les polices système.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Texte",
+    "lifecycle": "Réalisation",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Le nombre de polices différentes est limité.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Texte",
+    "lifecycle": "Réalisation",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Une alternative aux images est systématiquement disponible.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Images",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Images analysées",
+    "indicatorY": "Images"
+  },
+  {
+    "name": "Le son de la vidéo peut être restitué sous forme de texte.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Sons",
+    "lifecycle": "Réalisation",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "La durée des vidéos validées comme nécessaires est optimisée.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Vidéos",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Vidéos analysées",
+    "indicatorY": "Vidéos"
+  },
+  {
+    "name": "Les contenus actifs sont déclenchés uniquement sur action de l'utilisateur.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Contenus animés",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Contenus analysés",
+    "indicatorY": "Contenus actifs"
+  },
+  {
+    "name": "L'utilisation de Flash est supprimée, remplacée par un autre effet.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Contenus animés",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Appels flash supprimés",
+    "indicatorY": "Appels flash"
+  },
+  {
+    "name": "Les notifications utilisateurs sont désactivables par l'utilisateur si elles ne sont pas nécessaires.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Formulaires",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Appels flash supprimés",
+    "indicatorY": "Appels flash"
+  },
+  {
+    "name": "Certains types d'images (icons, picto...) remplacent du texte.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Texte",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Images analysées",
+    "indicatorY": "Images"
+  },
+  {
+    "name": "Les formulaires sont utiles.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Formulaires",
+    "lifecycle": "Conception",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Les prestataires retenus pour la production des contenus ont un engagement Numérique Responsable, Responsabilité Sociétale des Entreprises, accessibilité (formations, inclusion, éthique).",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Fournisseur",
+    "lifecycle": "Acquisition",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Engagements NR ou RSE",
+    "indicatorY": "Prestataires"
+  },
+  {
+    "name": "L'utilisateur peut personnaliser la fréquence et le périmètre des contenus diffusés.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Contenus diffusés",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "La validité des données est contrôlée avant la soumission du formulaire.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "Formulaires",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Données validées en local",
+    "indicatorY": "Données 'formelles'"
+  },
+  {
+    "name": "Chaque élément actif dispose d'un nom permettant de comprendre l'action qui sera réalisée par son utilisation.",
+    "category": "contenus",
+    "incontournable": false,
+    "keystep": "UI",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Actions analysées",
+    "indicatorY": "Actions user"
+  },
+  {
+    "name": "Les fonctionnalités couvertes par des actions locales (côté client) sont privilégiées plutôt que les échanges API.",
+    "category": "front",
+    "incontournable": true,
+    "keystep": "API",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Fonctionnalités analysées",
+    "indicatorY": "Fonctionnalités elligibles"
+  },
+  {
+    "name": "La plage de rétro-compatibilité est définie.",
+    "category": "front",
+    "incontournable": true,
+    "keystep": "Expérience utilisateur",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les fonctionnalités du service ne vont pas au-delà des besoins utilisateurs.",
+    "category": "front",
+    "incontournable": true,
+    "keystep": "Standards de développement",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Fonctionnalités utilisées",
+    "indicatorY": "Fonctionnalités déployées"
+  },
+  {
+    "name": "Une version épurée est disponible pour les impressions.",
+    "category": "front",
+    "incontournable": true,
+    "keystep": "UI",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "La mise en forme en css est privilégiée, pour limiter l'usage des images.",
+    "category": "front",
+    "incontournable": false,
+    "keystep": "UI",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Images analysées",
+    "indicatorY": "Images"
+  },
+  {
+    "name": "C'est une action utilisateur qui déclenche le 'play'.",
+    "category": "front",
+    "incontournable": false,
+    "keystep": "UI",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Actions sans auto start",
+    "indicatorY": "Actions user"
+  },
+  {
+    "name": "L'ensemble des équipements techniques utilisés par le service sont identifiés.",
+    "category": "front",
+    "incontournable": true,
+    "keystep": "Technologie",
+    "lifecycle": "Utilisation",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Il n'y a pas de fichier en double.",
+    "category": "front",
+    "incontournable": false,
+    "keystep": "Flux",
+    "lifecycle": "Administration",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Fichiers uniques",
+    "indicatorY": "Fichiers"
+  },
+  {
+    "name": "La navigation rapide est possible.",
+    "category": "front",
+    "incontournable": false,
+    "keystep": "Expérience utilisateur",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les flux échangés sont limités.",
+    "category": "front",
+    "incontournable": false,
+    "keystep": "Flux",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les utilisateurs sont informés des contraintes de volume et format de fichiers acceptés.",
+    "category": "front",
+    "incontournable": false,
+    "keystep": "Transferts",
+    "lifecycle": "Utilisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les fichiers échangés sont compressés.",
+    "category": "front",
+    "incontournable": false,
+    "keystep": "Transferts",
+    "lifecycle": "Déploiement",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Fichiers compressés",
+    "indicatorY": "Fichiers échangés"
+  },
+  {
+    "name": "Les objets de cartographie, animations, vidéos, sont présentés dans un mode statique.",
+    "category": "front",
+    "incontournable": true,
+    "keystep": "UI",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Objets analysés",
+    "indicatorY": "Objets dynamiques"
+  },
+  {
+    "name": "Les redimensionnements d'images sont traités en amont et en statique (côté serveur).",
+    "category": "front",
+    "incontournable": false,
+    "keystep": "UI",
+    "lifecycle": "Déploiement",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Images analysées",
+    "indicatorY": "Images"
+  },
+  {
+    "name": "Les environnements autres que production (DEV, QA, ...) sont éteints ou décommissionnées en dehors des plages d'usage (la nuit, en dehors des périodes de tests).",
+    "category": "architecture",
+    "incontournable": true,
+    "keystep": "Cycle de vie",
+    "lifecycle": "Administration",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Chaque composant déployé est qualifié du point de vue de sa durée de vie, et les procédures de déprovisonnement sont systématiquement exprimées.",
+    "category": "architecture",
+    "incontournable": true,
+    "keystep": "Cycle de vie",
+    "lifecycle": "Fin de vie",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "L'ensemble des équipements techniques utilisés par le service sont identifiés.",
+    "category": "architecture",
+    "incontournable": true,
+    "keystep": "Design Logiciel",
+    "lifecycle": "Acquisition",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les objectifs Numérique Responsable sont qualifiés pour chaque type de public dans le design d'architecture.",
+    "category": "architecture",
+    "incontournable": false,
+    "keystep": "Equipes",
+    "lifecycle": "Aucune phase",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Les données ACV sont réutilisées dans le cas d'une adptation d'un service existant.",
+    "category": "architecture",
+    "incontournable": false,
+    "keystep": "Cycle de vie",
+    "lifecycle": "Revalorisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Oui = 100-Partiel = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Chaque fonction du service est appréhendée en regard de son importance dans le service.",
+    "category": "architecture",
+    "incontournable": false,
+    "keystep": "Cycle de vie",
+    "lifecycle": "Conception",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "La capacité d'évolution/modification de l'application est étudiée.",
+    "category": "architecture",
+    "incontournable": false,
+    "keystep": "Cycle de vie",
+    "lifecycle": "Maintenance",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Mon protocole d'échange entre le contenu et le contenant est efficient.",
+    "category": "architecture",
+    "incontournable": false,
+    "keystep": "Design Logiciel",
+    "lifecycle": "Acquisition",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Des mesures d'impact des services numériques ont été mises places sur le service.",
+    "category": "architecture",
+    "incontournable": false,
+    "keystep": "Cycle de vie",
+    "lifecycle": "Administration",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "La traçabilité des exigences de sécurité est garantie.",
+    "category": "architecture",
+    "incontournable": false,
+    "keystep": "Design Logiciel",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "L'architecture est modulaire.",
+    "category": "architecture",
+    "incontournable": false,
+    "keystep": "Design Logiciel",
+    "lifecycle": "Revalorisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Pour chaque équipement les caractéristiques sont disponibles.",
+    "category": "architecture",
+    "incontournable": false,
+    "keystep": "Infrastructure",
+    "lifecycle": "Acquisition",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Le nombre de requêtes est minimisé (proscrire l'usage de boucle).",
+    "category": "back",
+    "incontournable": true,
+    "keystep": "Flux",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les fonctionnalités sont documentées pour permettre leur réutilisation.",
+    "category": "back",
+    "incontournable": true,
+    "keystep": "Qualité",
+    "lifecycle": "Revalorisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "Les données échangées sont compressées / minifiées avant transmission.",
+    "category": "back",
+    "incontournable": true,
+    "keystep": "Flux",
+    "lifecycle": "Déploiement",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Volume compressé",
+    "indicatorY": "Volume de transfert"
+  },
+  {
+    "name": "L'API fournit des limites, des filtres et la liste des champs à retourner.",
+    "category": "back",
+    "incontournable": false,
+    "keystep": "Traitement de données",
+    "lifecycle": "Réalisation",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Données API analysées",
+    "indicatorY": "Données API collectées"
+  },
+  {
+    "name": "Les données sensibles des utilisateurs sont sécurisées.",
+    "category": "back",
+    "incontournable": false,
+    "keystep": "Sécurité",
+    "lifecycle": "Déploiement",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Données sensibles analysées",
+    "indicatorY": "Données sensibles"
+  },
+  {
+    "name": "Les données souvent accédées sont disponibles en RAM.",
+    "category": "back",
+    "incontournable": false,
+    "keystep": "Données",
+    "lifecycle": "Administration",
+    "indicator": "",
+    "indicatorX": "",
+    "indicatorY": ""
+  },
+  {
+    "name": "Les données ont une date d'expiration à laquelle elles sont supprimées.",
+    "category": "back",
+    "incontournable": false,
+    "keystep": "Données",
+    "lifecycle": "Fin de vie",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Formalisés = 100-prévus = 75-Identifiés = 50-Non = 0",
+    "indicatorY": "100"
+  },
+  {
+    "name": "La fonctionnalité envisagée est utile.",
+    "category": "back",
+    "incontournable": true,
+    "keystep": "Cycle de vie",
+    "lifecycle": "Conception",
+    "indicator": "(X/Y)*100",
+    "indicatorX": "Fonctionnalités utilisées",
+    "indicatorY": "Fonctionnalités déployées"
+  }
+]

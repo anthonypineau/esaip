@@ -1,0 +1,163 @@
+*{
+    box-sizing:border-box
+}
+body{
+    font-family:'Roboto Condensed',sans-serif;
+    background-color: #fefae0;
+    color: #606c38;
+    font-size: 16px;
+}
+header {
+    padding: 2% 0;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+h1{
+    font-size:30px;
+    color:#606c38;
+    margin:5px 0 5px 0
+}
+h2{
+    font-size:20px;
+    font-weight:700;
+    color:#606c38;
+    text-align: center;
+}
+h3{
+    font-size:18px;
+    font-weight:700;
+    font-style:italic
+}
+
+.bold {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: 35% 35%;
+    padding: 20px;
+    column-gap: 15%;
+    row-gap: 10px;
+    justify-content: center;
+    align-content: center;
+}
+
+.gridItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+    height: 50px;
+}
+
+.center{
+    justify-content: center;
+}
+
+@media screen and (max-width: 680px) {
+    .gridContainer{
+        grid-template-columns: none;
+        grid-template-rows: auto auto;
+    }
+
+    .gridItem{
+        flex-direction: column;
+    }
+
+    select, input, .legend {
+        min-height: 70px;
+    }
+}
+
+select,input, .legend {
+    border:none;
+    min-height:50px;
+    min-width: 200px;
+    background:#bc6c25;
+    color:#fff;
+    padding: 1% 20px;
+    border-radius: 30px;
+}
+
+/* footer faire du blanc sur orange avec des borders radius */
+#footer {
+    margin-top: 30px;
+}
+
+.divSubTotal{
+    padding:1% 0 2% 0;
+    font-weight:700;
+    text-align:center;
+    background-color:#bc6c25
+}
+.subtotal{
+    font-size:50px;
+    font-weight:700
+}
+.subtotal h3{
+    font-size:40px;
+    padding-bottom:5px
+}
+.total{
+    color:red
+}
+.div_total{
+    width:50%;
+    margin:0 auto
+}
+.divEquiv{
+    width:33%;
+    font-weight:700;
+    text-align:center
+}
+.divEquivTotal{
+    width:80%;
+    margin:0 auto;
+    height:150px;
+    padding: 20px 0;
+}
+
+@media only screen and (max-width: 998px){
+    .divSubTotal{
+        width:80%;
+        margin:1% auto;
+        padding:2% 0 4% 0;
+        height:auto
+    }
+    #lastRow .impactTotal .divSubTotal{width:100%}
+    #lastRow .impactTotal{
+        margin:6px auto 0px auto;
+        padding:2% 2% 0% 2%;
+        height:auto}
+    .subtotal{font-size:31px}
+    #lastRow .divSubTotal{padding:1% 2% 12% 2%}
+    #lastRow h3{height:100px}
+    .divSubTotal h3{font-size:17px}
+}
+.impactTotal{margin:30px auto}
+#lastRow,#firstRow{
+    width:100%;
+    height:auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:stretch}
+#lastRow .divEquiv{width:33%;height:100%}
+#firstRow{justify-content:center;align-items:stretch}
+#firstRow .divSubTotal{height:100%;padding:1% 2% 2% 2%;margin:0 0 0 1%}
+#firstRow .divSubTotal:first-child{margin:0 1% 0 0}
+.divSubTotal{color:#fff}
+.divSubTotal h3{font-style:normal;text-transform:uppercase;font-weight:bold}
+
+footer{
+    height: 30px;
+    position:static;
+    clear: both;
+    width: 100%;
+    bottom: 0;
+    padding-bottom: 10px;
+    text-align: center;
+  }

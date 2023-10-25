@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Anthony\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\.cxx\\Debug\\274c1m68\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Anthony\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\.cxx\\Debug\\274c1m68\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-tracker-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\Anthony\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\.cxx\\Debug\\274c1m68\\arm64-v8a",
+        "native-tracker"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "native-tracker",
+      "output": "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\build\\intermediates\\cxx\\Debug\\274c1m68\\obj\\arm64-v8a\\libnative-tracker.so",
+      "runtimeFiles": [
+        "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\jniLibs\\arm64-v8a\\libopencv_java3.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

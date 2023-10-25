@@ -1,0 +1,8 @@
+# ninja log v5
+10	417	674570333	CMakeFiles/native-tracker.dir/Native_Camera.cpp.o	be3f5a30258aa809
+18	1762	674570334	CMakeFiles/native-tracker.dir/Image_Reader.cpp.o	aa2e4468fa0526f6
+14	1796	674570334	CMakeFiles/native-tracker.dir/Encoder.cpp.o	2f7403333f78dde4
+6	1798	674570334	CMakeFiles/native-tracker.dir/native-lib.cpp.o	6b0884722c9ae71b
+22	1823	674570334	CMakeFiles/native-tracker.dir/SocketClient.cpp.o	a6508a01261f00a6
+1	2292	674570335	CMakeFiles/native-tracker.dir/CV_Main.cpp.o	1f7bf3504adc9291
+2292	2428	674570335	C:/Users/Anthony/Desktop/NativeBarcodeTracker/app/build/intermediates/cxx/RelWithDebInfo/g534y499/obj/arm64-v8a/libnative-tracker.so	af63295a2a5e7c58

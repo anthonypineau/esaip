@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\Anthony\Desktop\NativeBarcodeTracker\app\.cxx\Debug\274c1m68\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/native-tracker.dir/CV_Main.cpp.o
+[2/2] Linking CXX shared library C:\Users\Anthony\Desktop\NativeBarcodeTracker\app\build\intermediates\cxx\Debug\274c1m68\obj\arm64-v8a\libnative-tracker.so

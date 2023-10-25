@@ -1,0 +1,62 @@
+[
+    {
+        "value": 193,
+        "description": "Voiture thermique"
+    },
+    {
+        "value": 19.8,
+        "description": "Voiture électrique"
+    },
+    {
+        "value": 186,
+        "description": "Avion"
+    },
+    {
+        "value": 1.73,
+        "description": "TGV"
+    },
+    {
+        "value": 5.29,
+        "description": "Intercité"
+    },
+    {
+        "value": 4.1,
+        "description": "RER"
+    },
+    {
+        "value": 24.8,
+        "description": "TER"
+    },
+    {
+        "value": 103,
+        "description": "Bus thermique"
+    },
+    {
+        "value": 9.5,
+        "description": "Bus électrique"
+    },
+    {
+        "value": 2.2,
+        "description": "Tramway"
+    },
+    {
+        "value": 2.5,
+        "description": "Métro"
+    },
+    {
+        "value": 61.6,
+        "description": "Scooter et moto < 250cm3"
+    },
+    {
+        "value": 168,
+        "description": "Moto"
+    },
+    {
+        "value": 0,
+        "description": "Vélo/à pieds"
+    },
+    {
+        "value": 2,
+        "description": "Vélo/trotinette électrique"
+    }
+]

@@ -1,0 +1,37 @@
+[
+{
+  "directory": "C:/Users/Anthony/Desktop/NativeBarcodeTracker/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Anthony\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_tracker_EXPORTS -IC:/Users/Anthony/Desktop/NativeBarcodeTracker/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-tracker.dir\\native-lib.cpp.o -c C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+
+{
+  "directory": "C:/Users/Anthony/Desktop/NativeBarcodeTracker/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Anthony\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_tracker_EXPORTS -IC:/Users/Anthony/Desktop/NativeBarcodeTracker/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-tracker.dir\\CV_Main.cpp.o -c C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\CV_Main.cpp",
+  "file": "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\CV_Main.cpp"
+},
+
+{
+  "directory": "C:/Users/Anthony/Desktop/NativeBarcodeTracker/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Anthony\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_tracker_EXPORTS -IC:/Users/Anthony/Desktop/NativeBarcodeTracker/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-tracker.dir\\Native_Camera.cpp.o -c C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\Native_Camera.cpp",
+  "file": "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\Native_Camera.cpp"
+},
+
+{
+  "directory": "C:/Users/Anthony/Desktop/NativeBarcodeTracker/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Anthony\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_tracker_EXPORTS -IC:/Users/Anthony/Desktop/NativeBarcodeTracker/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-tracker.dir\\Image_Reader.cpp.o -c C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\Image_Reader.cpp",
+  "file": "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\Image_Reader.cpp"
+},
+
+{
+  "directory": "C:/Users/Anthony/Desktop/NativeBarcodeTracker/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Anthony\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_tracker_EXPORTS -IC:/Users/Anthony/Desktop/NativeBarcodeTracker/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-tracker.dir\\SocketClient.cpp.o -c C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\SocketClient.cpp",
+  "file": "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\SocketClient.cpp"
+},
+
+{
+  "directory": "C:/Users/Anthony/Desktop/NativeBarcodeTracker/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Anthony\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Anthony/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_tracker_EXPORTS -IC:/Users/Anthony/Desktop/NativeBarcodeTracker/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-tracker.dir\\Encoder.cpp.o -c C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\Encoder.cpp",
+  "file": "C:\\Users\\Anthony\\Desktop\\NativeBarcodeTracker\\app\\src\\main\\cpp\\Encoder.cpp"
+}
+]

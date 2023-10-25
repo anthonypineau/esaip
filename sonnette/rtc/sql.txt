@@ -1,0 +1,7 @@
+﻿create table sonnettes
+(id int not null auto_increment,
+idSonnette int not null,
+date timestamp not null,
+typeAppui int not null,
+constraint pk_Sonnettes primary key(id))
+ENGINE=INNODB;
