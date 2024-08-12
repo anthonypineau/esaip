@@ -1,0 +1,11 @@
+introduction
+    (faire une phrase ou deux pour annoncer la problématique)
+
+étude de l'existant
+    étude du contexte : pour mercredi 17 mai + compte-rendu réunion + rapport avancement
+        présenter l'entreprise
+        présenter ses solutions informatiques (logiciel, matériel)
+        solutions possibles
+        solution retenue et pourquoi
+    conception
+        impact sur l'organisation

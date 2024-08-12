@@ -1,0 +1,30 @@
+demander à Hamrioui si il faut seulement mettre la version finale du cahier des charges ou s'il faut mettre les différentes évolutions.. puisqu'au départ le projet devait être fait en delphi mais du coup react
+cahier des charges
+    le mettre en annexe
+
+confirmer que pas besoin de mettre de traduction pour les parties en anglais..
+    faire les traductions des parties quand même en français en annexe mettre une phrase pour l'indiquer..
+
+dois-je me présenter ? présenter l'esaip ? ou que ssi ?
+    seulement présenter ssi et le projet ...
+    j'ai l'honneur de vous présenter le résumé de mon projet
+    pas obligé de mettre l'introduction..
+
+est-ce que les 5 minutes d'allemand (d'anglais) doivent être consécutives ?
+    on peut séquencer un peu..
+
+intro
+entreprise
+existant ce qui va ce qui va pas
+solutions possibles et solution retenue
+gestion de projet
+    méthode utilisée agile
+mise en place de la solution
+portée scientifique
+    étude de la possibilité d'intégrer..
+
+envoyer avancée du mémoire pour la dernière semaine de juillet (17 au 22) plus planifier un point teams
+
+juste après avoir présenter le plan faire l'introdution en laissant la slide du plan
+afficher la problématique
+donner les détails de la problématique lors de la présentation de l'entreprise

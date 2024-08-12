@@ -1,0 +1,70 @@
+point fonctionnalités Monsieur Gourdon 17 mars 2023
+
+à voir s'il est intéressant d'acheter le livre tms web core..tm
+
+voir si le rapport et/ou la soutenance seront confidentiels (mémoire confidentiel et soutenance à huit clos : oui ou non ?)
+
+objectifs du projet
+	développer un client morpheus full html 5 responsive pour une partie des fenêtres du client morpheus existant
+	expérimenter les outils de développement tms web
+	faire une maquette d'interface utilisateur
+		fenêtre main (principale)
+			menu
+				icones
+				style ( comme style windows : couleurs)
+				x niveaux et sous niveaux paramètrables
+					par rapport à une bdd afficher ou pas des points d'entrées du menu
+			bouton de fonctions
+				style
+				icones
+				taille des boutons (16, 32 ou 48)
+				rendre visible ou non les boutons
+				mise en page des boutons en fonction du nombre : alignements..
+			treeview
+				style
+				icones (devant nom sans toucher au petit triangle)
+				afficher une liste sur un niveau suivant une requête
+					charger les arborescences dynamiques (si on clique sur site afficher les sites et pas avant)
+				paramétrage visible ou non des arborescences
+
+		gestion des styles
+		gestion multi-fenêtres mdi (tabs)
+			icones
+			fermable ou non par une croix
+		gestion fenêtres modales (gestion croix ou non et mémorisation de position)
+		login
+		connexion à la base de données
+		
+	rédiger un descriptif du mode de fonctionnement du client au niveau ergonomique
+	développer une première version avec les fenêtres de base
+		fenêtre main (principale)
+			menu
+				icones
+				style ( comme style windows : couleurs)
+				x niveaux et sous niveaux paramètrables
+					par rapport à une bdd afficher ou pas des points d'entrées du menu
+			bouton de fonctions
+				style
+				icones
+				taille des boutons (16, 32 ou 48)
+				rendre visible ou non les boutons
+				mise en page des boutons en fonction du nombre : alignements..
+			treeview
+				style
+				icones (devant nom sans toucher au petit triangle)
+				afficher une liste sur un niveau suivant une requête
+					charger les arborescences dynamiques (si on clique sur site afficher les sites et pas avant)
+				paramétrage visible ou non des arborescences
+
+		gestion des styles
+		gestion multi-fenêtres mdi (tabs)
+			icones
+			fermable ou non par une croix
+		gestion fenêtres modales (gestion croix ou non et mémorisation de position)
+		login
+		connexion à la base de données
+		gestion des droits d'accès
+		gestion paramétrage en xml des fenêtres
+			type de fenêtre
+			grid associé
+			requête sql

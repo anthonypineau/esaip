@@ -1,0 +1,213 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {french}{}\relax 
+\contentsline {part}{Remerciements}{1}{part*.1}%
+\contentsline {part}{Table des figures}{12}{section*.2}%
+\contentsline {part}{Liste des tableaux}{12}{section*.3}%
+\contentsline {part}{Glossaire}{19}{section*.5}%
+\contentsline {part}{Einleitung\FN@sf@gobble@opt {Retrouver la traduction en français de la section Introduction en Annexe \ref {appendix:introduction_translation} \nameref {appendix:introduction_translation}.\\ Références utilisées pour l'aide à la rédaction de certaines parties du mémoire \cite {scribbr:remerciements} \cite {scribbr:introduction} \cite {scribbr:plan} \cite {scribbr:cadre_theorique}.} (Introduction)}{20}{part*.7}%
+\contentsline {part}{1\hspace {1em}Contexte global\FN@sf@gobble@opt {Références utilisées dans la partie \ref {section:context} Contexte global : \cite {schaefer} \cite {schaeferHistory} \cite {schaeferFR} \cite {schaeferMorpheus} .}}{23}{part.1}%
+\contentsline {section}{\numberline {1.1}L'entreprise : SSI SCHÄFER}{23}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Histoire}{24}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}SSI SCHÄFER en France}{25}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Solutions intralogistiques}{25}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Solutions logicielles}{27}{subsection.1.1.4}%
+\contentsline {section}{\numberline {1.2}MORPHEUS}{27}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Morpheus \acrshort {wms}}{27}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Morpheus \acrshort {wcs}}{28}{subsection.1.2.2}%
+\contentsline {part}{2\hspace {1em}Cadre théorique}{29}{part.2}%
+\contentsline {section}{\numberline {2.1}Application \gls {client_lourd}}{29}{section.2.1}%
+\contentsline {section}{\numberline {2.2}\Gls {app_web}}{29}{section.2.2}%
+\contentsline {section}{\numberline {2.3}\Gls {frontend} et \gls {backend}}{30}{section.2.3}%
+\contentsline {section}{\numberline {2.4}\Gls {framework}}{30}{section.2.4}%
+\contentsline {section}{\numberline {2.5}\acrshort {api} : \gls {API}}{31}{section.2.5}%
+\contentsline {section}{\numberline {2.6}\acrshort {rest} : \gls {REST}}{31}{section.2.6}%
+\contentsline {part}{3\hspace {1em}Partie scientifique : analyse comparative des applications \gls {client_lourd} et des \glspl {app_web} \FN@sf@gobble@opt {Références utilisées dans la partie \ref {part:scientific} Partie scientifique : analyse comparative des applications \gls {client_lourd} et des \glspl {app_web} : \cite {wikipedia:client_leger} \cite {wikipedia:client_lourd} \cite {wikipedia:application_web} \cite {wikipedia:acces_internet} \cite {wikipedia:internet} \cite {wikipedia:plateforme_client_riche} \cite {wikipedia:client_informatique} \cite {scientific:app_master} \cite {scientific:eposaudio} \cite {scientific:journal_net} \cite {scientific:profolus} \cite {scientific:audiviklabs} \cite {scientific:minnalearn} \cite {scientific:cyberpreventys} \cite {scientific:techtarget} \cite {scientific:techgenix} \cite {scientific:baeldung} \cite {scientific:ionos_client_lourd} \cite {scientific:agence_scroll} \cite {scientific:yeeply} \cite {scientific:digitiz} \cite {scientific:hicones} \cite {scientific:yourstory} \cite {scientific:ionos_client_leger} \cite {scientific:proofpoint} \cite {scientific:bluemind}.}}{32}{part.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{32}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Présentation du sujet}{32}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Contexte de l'analyse}{33}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Énoncé de la problématique}{33}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Résumé}{33}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Définitions et concepts de base}{34}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Explication des applications \gls {client_lourd}}{34}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Explication des \glspl {app_web}}{34}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Discussion sur la connectivité internet et son rôle dans les \glspl {app_web}}{34}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Avantages des applications \gls {client_lourd}}{35}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Performances}{35}{subsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.1}Performances du serveur}{36}{subsubsection.3.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.2}Performances de l'ordinateur client}{36}{subsubsection.3.3.1.2}%
+\contentsline {subsection}{\numberline {3.3.2}Expérience utilisateur}{36}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}Interface utilisateur graphique riche}{36}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}Possibilité de personnalisation}{37}{subsubsection.3.3.2.2}%
+\contentsline {subsection}{\numberline {3.3.3}Fonctionnalités avancées}{37}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Disponibilité hors ligne}{37}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Inconvénients des applications \gls {client_lourd}}{38}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Installation et mise à jour}{38}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Compatibilité}{38}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Coût}{39}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Avantages des \glspl {app_web}}{39}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Accessibilité}{39}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Installation et mises à jour simplifiées}{40}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Coût}{40}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Collaboration}{41}{subsection.3.5.4}%
+\contentsline {subsubsection}{\numberline {3.5.4.1}Travail en équipe}{41}{subsubsection.3.5.4.1}%
+\contentsline {section}{\numberline {3.6}Inconvénients des \glspl {app_web}}{41}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Performances}{41}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Expérience utilisateur}{42}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Dépendance internet}{42}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Sécurité}{42}{subsection.3.6.4}%
+\contentsline {section}{\numberline {3.7}Cas d'utilisations appropriés}{43}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Identifier les scénarios où les applications \gls {client_lourd} sont préférables}{43}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Identifier les scénarios où les \glspl {app_web} offrent des avantages significatifs}{44}{subsection.3.7.2}%
+\contentsline {section}{\numberline {3.8}Conclusion}{45}{section.3.8}%
+\contentsline {part}{4\hspace {1em}Präsentation des während des Praktikums durchgeführten Projekts (Présentation du projet réalisé au cours du stage)\FN@sf@gobble@opt {Retrouver la traduction en français de la section Présentation du projet réalise au cours du stage en Annexe \ref {appendix_presentation_projet_translation} \nameref {appendix_presentation_projet_translation}}}{46}{part.4}%
+\contentsline {section}{\numberline {4.1}Gesamtprojekt}{46}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Praktikumsprojekt}{47}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Bestehende Anwendung}{47}{section.4.3}%
+\contentsline {part}{5\hspace {1em}Enjeux et importances}{49}{part.5}%
+\contentsline {section}{\numberline {5.1}Enjeux du projet global}{49}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Enjeux financiers}{50}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Enjeux stratégiques}{50}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Enjeux humains}{50}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Objectifs globaux}{50}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Enjeux du projet de stage}{51}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Objectifs du projet de stage}{51}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Parties prenantes et intervenants}{51}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Contraintes et limitations du projet de stage}{52}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Contraintes de délai}{52}{subsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.1.1}Durée fixe du stage}{52}{subsubsection.5.6.1.1}%
+\contentsline {subsubsection}{\numberline {5.6.1.2}Complexité du projet}{52}{subsubsection.5.6.1.2}%
+\contentsline {subsubsection}{\numberline {5.6.1.3}Apprentissage et conception initiale}{53}{subsubsection.5.6.1.3}%
+\contentsline {subsubsection}{\numberline {5.6.1.4}Solutions}{53}{subsubsection.5.6.1.4}%
+\contentsline {paragraph}{\numberline {5.6.1.4.1}Planification avancée\\}{53}{paragraph.5.6.1.4.1}%
+\contentsline {paragraph}{\numberline {5.6.1.4.2}Priorisation des tâches\\}{53}{paragraph.5.6.1.4.2}%
+\contentsline {subsection}{\numberline {5.6.2}Limitations en ressources humaines}{54}{subsection.5.6.2}%
+\contentsline {subsubsection}{\numberline {5.6.2.1}Effectif limité et surchage de travail}{54}{subsubsection.5.6.2.1}%
+\contentsline {subsubsection}{\numberline {5.6.2.2}Solutions}{54}{subsubsection.5.6.2.2}%
+\contentsline {subsection}{\numberline {5.6.3}Conclusion}{54}{subsection.5.6.3}%
+\contentsline {section}{\numberline {5.7}Synthèse des enjeux et de l'importance}{55}{section.5.7}%
+\contentsline {part}{6\hspace {1em}Méthodologie et outils}{57}{part.6}%
+\contentsline {section}{\numberline {6.1}Méthodologie adoptée}{57}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Choix de la méthodologie : méthode en V}{58}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Étapes de la méthodologie}{59}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Planification et gestion de projet}{59}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Planification}{60}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Diagramme de GANTT}{60}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Budgétisation}{61}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Confluence : outil de gestion de la documentation}{61}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Collaboration et communication}{62}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Teams : outil de messagerie instantanée}{63}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Outlook : outil de messagerie}{63}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}"Point dev" : réunion hebdomadaire}{64}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.4.4}Réunions ponctuelles}{64}{subsection.6.4.4}%
+\contentsline {subsection}{\numberline {6.4.5}Communication avec les collègues}{64}{subsection.6.4.5}%
+\contentsline {section}{\numberline {6.5}Outils technologiques}{64}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}\gls {delphi}}{65}{subsection.6.5.1}%
+\contentsline {subsubsection}{\numberline {6.5.1.1}\gls {tmssoftware} et \gls {tmsweb}}{65}{subsubsection.6.5.1.1}%
+\contentsline {paragraph}{\numberline {6.5.1.1.1}\gls {tmssoftware}\\}{65}{paragraph.6.5.1.1.1}%
+\contentsline {paragraph}{\numberline {6.5.1.1.2}\gls {tmsweb}}{65}{paragraph.6.5.1.1.2}%
+\contentsline {subsection}{\numberline {6.5.2}\gls {html}}{66}{subsection.6.5.2}%
+\contentsline {subsection}{\numberline {6.5.3}\gls {css}}{66}{subsection.6.5.3}%
+\contentsline {subsubsection}{\numberline {6.5.3.1}Sass}{66}{subsubsection.6.5.3.1}%
+\contentsline {subsection}{\numberline {6.5.4}\gls {javascript}}{66}{subsection.6.5.4}%
+\contentsline {subsubsection}{\numberline {6.5.4.1}Typescript}{67}{subsubsection.6.5.4.1}%
+\contentsline {subsubsection}{\numberline {6.5.4.2}\gls {react}}{67}{subsubsection.6.5.4.2}%
+\contentsline {subsubsection}{\numberline {6.5.4.3}\gls {devextreme} par \gls {devexpress}}{68}{subsubsection.6.5.4.3}%
+\contentsline {paragraph}{\numberline {6.5.4.3.1}DexExpress\\}{68}{paragraph.6.5.4.3.1}%
+\contentsline {paragraph}{\numberline {6.5.4.3.2}\gls {devextreme}\\}{68}{paragraph.6.5.4.3.2}%
+\contentsline {subsection}{\numberline {6.5.5}Git}{68}{subsection.6.5.5}%
+\contentsline {subsection}{\numberline {6.5.6}Insomnia}{68}{subsection.6.5.6}%
+\contentsline {subsection}{\numberline {6.5.7}Microsoft SQL Server \& Microsoft SQL Server Management Studio}{69}{subsection.6.5.7}%
+\contentsline {subsubsection}{\numberline {6.5.7.1}Microsoft SQL Server}{69}{subsubsection.6.5.7.1}%
+\contentsline {subsubsection}{\numberline {6.5.7.2}Microsoft SQL Server Management Studio}{69}{subsubsection.6.5.7.2}%
+\contentsline {subsection}{\numberline {6.5.8}Visual Studio Code}{69}{subsection.6.5.8}%
+\contentsline {subsection}{\numberline {6.5.9}Modelio}{70}{subsection.6.5.9}%
+\contentsline {subsection}{\numberline {6.5.10}Latex}{70}{subsection.6.5.10}%
+\contentsline {part}{7\hspace {1em}Project progress (Déroulement du projet)\FN@sf@gobble@opt {Retrouver la traduction de la partie Déroulement du projet en Annexe \ref {appendix:projet_translation} \nameref {appendix:projet_translation}}}{71}{part.7}%
+\contentsline {section}{\numberline {7.1}Objectives et initial planning}{71}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Detailled objectives}{72}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Initial planning}{74}{subsection.7.1.2}%
+\contentsline {section}{\numberline {7.2}Project stages}{74}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Step \#1: Choosing the programming language for the \gls {frontend}}{74}{subsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.1.1}Possible solutions}{75}{subsubsection.7.2.1.1}%
+\contentsline {paragraph}{\numberline {7.2.1.1.1}\gls {delphi} and \gls {tmssoftware}\\}{75}{paragraph.7.2.1.1.1}%
+\contentsline {paragraph}{\numberline {7.2.1.1.2}\gls {javascript}\\}{75}{paragraph.7.2.1.1.2}%
+\contentsline {paragraph}{\numberline {7.2.1.1.3}\gls {react} and \gls {devextreme}\\}{75}{paragraph.7.2.1.1.3}%
+\contentsline {subsubsection}{\numberline {7.2.1.2}Chosen solution}{76}{subsubsection.7.2.1.2}%
+\contentsline {paragraph}{\numberline {7.2.1.2.1}Financial impact\\}{76}{paragraph.7.2.1.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Step \#2: Development of the first version of the \gls {frontend}}{77}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Step \#3: Development of a \gls {backend} to interact with the database}{78}{subsection.7.2.3}%
+\contentsline {section}{\numberline {7.3}Monitoring and control}{78}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Weekly meeting:"Point dev"}{79}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Ad hoc follow-up meetings}{79}{subsection.7.3.2}%
+\contentsline {part}{8\hspace {1em}Cyberattaque au sein de l'entreprise}{80}{part.8}%
+\contentsline {section}{\numberline {8.1}Impacts et conséquences}{80}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Télétravail impossible}{80}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Chômage partiel}{81}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}Impossibilité d'aider le client}{81}{subsection.8.1.3}%
+\contentsline {section}{\numberline {8.2}Solutions}{81}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Venue des employés sur le site de Cholet}{81}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Utilisation d'autres outils}{81}{subsection.8.2.2}%
+\contentsline {section}{\numberline {8.3}Conclusion}{82}{section.8.3}%
+\contentsline {part}{9\hspace {1em}Réalisations et résultats}{83}{part.9}%
+\contentsline {section}{\numberline {9.1}Objectifs atteints}{83}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Rappel des objectifs du projet de stage}{83}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}Tester les outils de développement}{84}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}Créer une maquette}{84}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.4}Créer une première version de l'\gls {app_web}}{84}{subsection.9.1.4}%
+\contentsline {section}{\numberline {9.2}Réalisations}{84}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Conclusion}{86}{section.9.3}%
+\contentsline {part}{10\hspace {1em}Compétences mises en \oe uvre}{87}{part.10}%
+\contentsline {section}{\numberline {10.1}Compétences techniques}{87}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Compétences en gestion}{88}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Gestion du temps}{88}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}Planification}{88}{subsection.10.2.2}%
+\contentsline {section}{\numberline {10.3}Compétences en communication}{88}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}Rédaction d'une documentation technique}{89}{subsection.10.3.1}%
+\contentsline {section}{\numberline {10.4}Compétences en leadership}{89}{section.10.4}%
+\contentsline {subsection}{\numberline {10.4.1}Développement de l'\acrshort {api} \acrshort {rest}}{89}{subsection.10.4.1}%
+\contentsline {section}{\numberline {10.5}Compétences en adaptabilité}{89}{section.10.5}%
+\contentsline {subsection}{\numberline {10.5.1}Choix du changement de \gls {langage_programmation}}{90}{subsection.10.5.1}%
+\contentsline {section}{\numberline {10.6}Leçons apprises et développement professionnel}{90}{section.10.6}%
+\contentsline {part}{Abschluss\FN@sf@gobble@opt {Retrouver la traduction en français de la section Conclusion en Annexe \ref {appendix:conclusion_translation} \nameref {appendix:conclusion_translation}} (Conclusion)}{92}{part*.10}%
+\contentsline {part}{Bibliographie}{95}{section*.11}%
+\contentsline {part}{Annexes}{95}{part*.13}%
+\etoc@startlocaltoc {2}
+\contentsline {section}{\numberline {A}Traduction de la partie Introduction}{97}{appendix.A}%
+\contentsline {section}{\numberline {B}Dates importantes de l'histoire SSI SCHÄFER}{99}{appendix.B}%
+\contentsline {section}{\numberline {C}Carte des filiales SSI SCHÄFER}{100}{appendix.C}%
+\contentsline {section}{\numberline {D}Liste complète des fonctionnalités de MORPHEUS WMS}{101}{appendix.D}%
+\contentsline {section}{\numberline {E}Liste complète des fonctionnalités de MORPHEUS WCS}{101}{appendix.E}%
+\contentsline {section}{\numberline {F}Traduction de la partie Présentation du projet réalisé au cours du stage}{102}{appendix.F}%
+\contentsline {subsection}{\numberline {F.1}Projet global}{102}{subsection.F.1}%
+\contentsline {subsection}{\numberline {F.2}Projet du stage}{103}{subsection.F.2}%
+\contentsline {subsection}{\numberline {F.3}Application existante}{103}{subsection.F.3}%
+\contentsline {section}{\numberline {G}Traduction de la partie Déroulement du projet}{105}{appendix.G}%
+\contentsline {subsection}{\numberline {G.1}Objectifs et planification initiale}{105}{subsection.G.1}%
+\contentsline {subsubsection}{\numberline {G.1.1}Objectifs détaillés}{106}{subsubsection.G.1.1}%
+\contentsline {subsubsection}{\numberline {G.1.2}Planification initiale}{108}{subsubsection.G.1.2}%
+\contentsline {subsection}{\numberline {G.2}Étapes du projet}{108}{subsection.G.2}%
+\contentsline {subsubsection}{\numberline {G.2.1}Étape n°1 : Choix du \gls {langage_programmation} pour le \gls {frontend}}{109}{subsubsection.G.2.1}%
+\contentsline {paragraph}{\numberline {G.2.1.1}Solutions possibles\\}{109}{paragraph.G.2.1.1}%
+\contentsline {subparagraph}{\numberline {G.2.1.1.1}\gls {delphi} et \gls {tmssoftware}\\}{109}{subparagraph.G.2.1.1.1}%
+\contentsline {subparagraph}{\numberline {G.2.1.1.2}\gls {javascript}\\}{109}{subparagraph.G.2.1.1.2}%
+\contentsline {subparagraph}{\numberline {G.2.1.1.3}\gls {react} et \gls {devextreme}\\}{109}{subparagraph.G.2.1.1.3}%
+\contentsline {paragraph}{\numberline {G.2.1.2}Solution retenue\\}{110}{paragraph.G.2.1.2}%
+\contentsline {subparagraph}{\numberline {G.2.1.2.1}Impact financier\\}{110}{subparagraph.G.2.1.2.1}%
+\contentsline {subsubsection}{\numberline {G.2.2}Étape n°2 : Développement de la première version du \gls {frontend}}{111}{subsubsection.G.2.2}%
+\contentsline {subsubsection}{\numberline {G.2.3}Étape n°3 : Développement d'un \gls {backend} pour intéragir avec la base de données}{112}{subsubsection.G.2.3}%
+\contentsline {subsection}{\numberline {G.3}Suivi et contrôle}{112}{subsection.G.3}%
+\contentsline {subsubsection}{\numberline {G.3.1}Réunion hebdomadaire:"Point dev"}{113}{subsubsection.G.3.1}%
+\contentsline {subsubsection}{\numberline {G.3.2}Réunions ponctuelles de suivi}{113}{subsubsection.G.3.2}%
+\contentsline {section}{\numberline {H}Résultat obtenu avec \gls {delphi}}{114}{appendix.H}%
+\contentsline {section}{\numberline {I}Code produit en \gls {delphi}}{115}{appendix.I}%
+\contentsline {section}{\numberline {J}Code produit en \gls {react} et \gls {devextreme}}{116}{appendix.J}%
+\contentsline {section}{\numberline {K}Comparatif technique entre les solutions \gls {tmsweb} et \gls {devextreme}}{117}{appendix.K}%
+\contentsline {section}{\numberline {L}Traduction de la partie Conclusion}{120}{appendix.L}%
+\contentsline {part}{Mots clés}{122}{part*.15}%
+\contentsline {section}{Mots clés}{122}{section*.16}%
+\contentsline {section}{Keywords}{122}{section*.16}%
+\contentsline {section}{Schlüsselwörter}{122}{section*.16}%
+\contentsline {part}{Résumés}{123}{part*.18}%
+\contentsline {section}{Résumé}{123}{section*.19}%
+\contentsline {section}{Summary}{123}{section*.19}%
+\contentsline {section}{Zusammenfassung}{124}{section*.19}%

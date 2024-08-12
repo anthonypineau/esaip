@@ -1,0 +1,718 @@
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{1}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{1}
+\glossaryentry{WMS?\glossentry{wms}|setentrycounter[]{page}"\glsnumberformat}{2}
+\glossaryentry{WCS?\glossentry{wcs}|setentrycounter[]{page}"\glsnumberformat}{2}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{2}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{2}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{2}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{2}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{2}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{2}
+\glossaryentry{Application Programming Interface?\glossentry{API}|setentrycounter[]{page}"\glsnumberformat}{2}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{Respresentational State Transfer?\glossentry{REST}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{3}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{4}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{4}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{5}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{5}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{5}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{5}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{5}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{5}
+\glossaryentry{CSS?\glossentry{css}|setentrycounter[]{page}"\glsnumberformat}{5}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{DevExpress?\glossentry{devexpress}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{6}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{7}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{7}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{8}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{8}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{8}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{8}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{8}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{9}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{12}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{12}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{12}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{12}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{12}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{12}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{12}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{12}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{12}
+\glossaryentry{Application Programming Interface?\glossentry{API}|setentrycounter[]{page}"\glsnumberformat}{13}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{13}
+\glossaryentry{Application Programming Interface?\glossentry{API}|setentrycounter[]{page}"\glsnumberformat}{13}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{13}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{13}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{13}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{13}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{13}
+\glossaryentry{CSS?\glossentry{css}|setentrycounter[]{page}"\glsnumberformat}{14}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{14}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{14}
+\glossaryentry{DevExpress?\glossentry{devexpress}|setentrycounter[]{page}"\glsnumberformat}{14}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{14}
+\glossaryentry{DevExpress?\glossentry{devexpress}|setentrycounter[]{page}"\glsnumberformat}{14}
+\glossaryentry{XML?\glossentry{XML}|setentrycounter[]{page}"\glsnumberformat}{14}
+\glossaryentry{Document Object Model?\glossentry{DOM}|setentrycounter[]{page}"\glsnumberformat}{14}
+\glossaryentry{environnement de développement intégré?\glossentry{EDI}|setentrycounter[]{page}"\glsnumberformat}{14}
+\glossaryentry{enterprise resource planning?\glossentry{ERP}|setentrycounter[]{page}"\glsnumberformat}{15}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{15}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{15}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{15}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{15}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{15}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{16}
+\glossaryentry{Modèle-Vue-Contrôleur?\glossentry{MVC}|setentrycounter[]{page}"\glsnumberformat}{16}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{17}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{17}
+\glossaryentry{Respresentational State Transfer?\glossentry{REST}|setentrycounter[]{page}"\glsnumberformat}{17}
+\glossaryentry{Respresentational State Transfer?\glossentry{REST}|setentrycounter[]{page}"\glsnumberformat}{17}
+\glossaryentry{système de gestion de base de données?\glossentry{SGBD}|setentrycounter[]{page}"\glsnumberformat}{17}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{18}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{18}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{18}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{18}
+\glossaryentry{Langage de Modélisation Unifié?\glossentry{UML}|setentrycounter[]{page}"\glsnumberformat}{18}
+\glossaryentry{réseau virtuel privé?\glossentry{VPN}|setentrycounter[]{page}"\glsnumberformat}{18}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{20}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{20}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{21}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{21}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{21}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{21}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{21}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{21}
+\glossaryentry{Application Programming Interface?\glossentry{API}|setentrycounter[]{page}"\glsnumberformat}{23}
+\glossaryentry{Warehouse Management System?\glossentry{WMS}|setentrycounter[]{page}"\glsnumberformat}{27}
+\glossaryentry{Warehouse Control System?\glossentry{WCS}|setentrycounter[]{page}"\glsnumberformat}{27}
+\glossaryentry{WMS?\glossentry{wms}|setentrycounter[]{page}"\glsnumberformat}{27}
+\glossaryentry{WCS?\glossentry{wcs}|setentrycounter[]{page}"\glsnumberformat}{28}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{29}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{bibliothèque logicielle?\glossentry{bibliotheque_logicielle}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{bibliothèque logicielle?\glossentry{bibliotheque_logicielle}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{bibliothèque logicielle?\glossentry{bibliotheque_logicielle}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{30}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{Application Programming Interface?\glossentry{API}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{bibliothèque logicielle?\glossentry{bibliotheque_logicielle}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{Respresentational State Transfer?\glossentry{REST}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{Respresentational State Transfer?\glossentry{REST}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{Application Programming Interface?\glossentry{API}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{Respresentational State Transfer?\glossentry{REST}|setentrycounter[]{page}"\glsnumberformat}{31}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{32}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{33}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{33}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{33}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{33}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{33}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{33}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{33}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{33}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{33}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{33}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{34}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{34}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{34}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{34}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{34}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{34}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{34}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{34}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{34}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{35}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{35}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{35}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{35}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{36}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{36}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{36}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{36}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{37}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{37}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{37}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{37}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{37}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{37}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{37}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{37}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{37}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{38}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{38}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{38}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{38}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{38}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{39}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{39}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{39}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{39}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{39}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{39}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{40}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{40}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{40}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{40}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{40}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{40}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{40}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{40}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{40}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{41}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{41}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{41}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{41}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{41}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{41}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{41}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{42}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{42}
+\glossaryentry{client léger?\glossentry{client_leger}|setentrycounter[]{page}"\glsnumberformat}{42}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{42}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{42}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{43}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{44}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{44}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{44}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{44}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{44}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{44}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{44}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{44}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{45}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{45}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{45}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{45}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{45}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{45}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{45}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{45}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{46}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{50}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{50}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{50}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{51}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{51}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{51}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{51}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{54}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{54}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{54}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{54}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{54}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{55}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{56}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{60}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{61}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{61}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{orienté objet?\glossentry{poo}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{environnement de développement intégré?\glossentry{EDI}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{EDI?\glossentry{edi}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{EDI?\glossentry{edi}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{orienté objet?\glossentry{poo}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{65}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{hypertexte?\glossentry{hypertexte}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{CSS?\glossentry{css}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{CSS?\glossentry{css}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{XML?\glossentry{XML}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{CSS?\glossentry{css}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{CSS?\glossentry{css}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{CSS?\glossentry{css}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{CSS?\glossentry{css}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{66}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{open source?\glossentry{opensource}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{bibliothèque logicielle?\glossentry{bibliotheque_logicielle}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{open source?\glossentry{opensource}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{bibliothèque logicielle?\glossentry{bibliotheque_logicielle}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{MVC?\glossentry{mvc}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{Modèle-Vue-Contrôleur?\glossentry{MVC}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{bibliothèque logicielle?\glossentry{bibliotheque_logicielle}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{MVC?\glossentry{mvc}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{bibliothèque logicielle?\glossentry{bibliotheque_logicielle}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{DOM?\glossentry{dom}|setentrycounter[]{page}"\glsnumberformat}{67}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{DevExpress?\glossentry{devexpress}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{DevExpress?\glossentry{devexpress}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{DevExpress?\glossentry{devexpress}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{logiciel de gestion de version?\glossentry{vcs}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{open source?\glossentry{opensource}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{68}
+\glossaryentry{système de gestion de base de données?\glossentry{SGBD}|setentrycounter[]{page}"\glsnumberformat}{69}
+\glossaryentry{SGBD?\glossentry{sgbd}|setentrycounter[]{page}"\glsnumberformat}{69}
+\glossaryentry{SGBD?\glossentry{sgbd}|setentrycounter[]{page}"\glsnumberformat}{69}
+\glossaryentry{SGBD?\glossentry{sgbd}|setentrycounter[]{page}"\glsnumberformat}{69}
+\glossaryentry{UML?\glossentry{uml}|setentrycounter[]{page}"\glsnumberformat}{70}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{72}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{72}
+\glossaryentry{XML?\glossentry{XML}|setentrycounter[]{page}"\glsnumberformat}{73}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{74}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{74}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{DevExpress?\glossentry{devexpress}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{75}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{76}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{77}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{77}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{77}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{77}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{78}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{78}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{78}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{78}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{78}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{78}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{78}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{78}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{78}
+\glossaryentry{CRUD?\glossentry{crud}|setentrycounter[]{page}"\glsnumberformat}{78}
+\glossaryentry{ERP?\glossentry{erp}|setentrycounter[]{page}"\glsnumberformat}{80}
+\glossaryentry{VPN?\glossentry{vpn}|setentrycounter[]{page}"\glsnumberformat}{80}
+\glossaryentry{ERP?\glossentry{erp}|setentrycounter[]{page}"\glsnumberformat}{81}
+\glossaryentry{VPN?\glossentry{vpn}|setentrycounter[]{page}"\glsnumberformat}{81}
+\glossaryentry{VPN?\glossentry{vpn}|setentrycounter[]{page}"\glsnumberformat}{81}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{83}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{84}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{84}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{84}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{84}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{84}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{85}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{85}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{87}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{87}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{87}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{87}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{87}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{87}
+\glossaryentry{CSS?\glossentry{css}|setentrycounter[]{page}"\glsnumberformat}{87}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{87}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{88}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{88}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{88}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{88}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{89}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{89}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{89}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{89}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{89}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{90}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{90}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{90}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{90}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{90}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{90}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{90}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{95}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{95}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{95}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{95}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{95}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{95}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{95}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{96}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{96}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{96}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{96}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{96}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{96}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{96}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{96}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{97}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{98}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{98}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{98}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{98}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{98}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{98}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{98}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{98}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{98}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{102}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{102}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{102}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{102}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{102}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{102}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{102}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{103}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{103}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{103}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{103}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{104}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{104}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{106}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{106}
+\glossaryentry{XML?\glossentry{XML}|setentrycounter[]{page}"\glsnumberformat}{108}
+\glossaryentry{HTML?\glossentry{html}|setentrycounter[]{page}"\glsnumberformat}{108}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{109}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{DevExpress?\glossentry{devexpress}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{110}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{111}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{111}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{111}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{111}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{111}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{111}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{CRUD?\glossentry{crud}|setentrycounter[]{page}"\glsnumberformat}{112}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{113}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{114}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{114}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{114}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{115}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{115}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{115}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{116}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{116}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{langage de programmation?\glossentry{langage_programmation}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{orienté objet?\glossentry{poo}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{bibliothèque logicielle?\glossentry{bibliotheque_logicielle}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{117}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{React?\glossentry{react}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{TMS Software?\glossentry{tmssoftware}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{Delphi?\glossentry{delphi}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{118}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{119}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{119}
+\glossaryentry{TMS Web?\glossentry{tmsweb}|setentrycounter[]{page}"\glsnumberformat}{119}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{119}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{119}
+\glossaryentry{DevExtreme?\glossentry{devextreme}|setentrycounter[]{page}"\glsnumberformat}{119}
+\glossaryentry{DevExpress?\glossentry{devexpress}|setentrycounter[]{page}"\glsnumberformat}{119}
+\glossaryentry{JavaScript?\glossentry{javascript}|setentrycounter[]{page}"\glsnumberformat}{119}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{120}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{120}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{120}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{120}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{120}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{121}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{121}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{121}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{121}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{client lourd?\glossentry{client_lourd}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{application web?\glossentry{app_web}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{123}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{124}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{124}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{124}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{124}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{124}
+\glossaryentry{frontend?\glossentry{frontend}|setentrycounter[]{page}"\glsnumberformat}{124}
+\glossaryentry{backend?\glossentry{backend}|setentrycounter[]{page}"\glsnumberformat}{124}
+\glossaryentry{framework?\glossentry{framework}|setentrycounter[]{page}"\glsnumberformat}{124}
+\glossaryentry{API?\glossentry{api}|setentrycounter[]{page}"\glsnumberformat}{124}
+\glossaryentry{REST?\glossentry{rest}|setentrycounter[]{page}"\glsnumberformat}{124}

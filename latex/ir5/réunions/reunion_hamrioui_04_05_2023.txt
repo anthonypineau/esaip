@@ -1,0 +1,20 @@
+point stage - rapport avancement premier mois
+    faire une introduction
+        poser plus le contexte
+    décrire une problématique
+        enlever client lourd
+    phase exploration
+        spécification
+
+    chapitre 1 : introduction : objectifs
+    chapitre 2 : étude de l'existant et spécification des besoins : étude des besoins + spécifications + critiques : pourquoi ils m'ont pris (+ présentation entreprise : solutions informatiques ...)
+    chapitre 3 : conception
+
+    première étape : ne pas parler de projet : montrer qu'on analyse
+    introduire le contexte : motivations : avantages et inconvénients...
+
+
+faire compte-rendu de réunion et l'envoyer à monsieur Hamrioui
+
+faire chapitre 1 pour semaine prochaine
+prochaine réunion jeudi 11 15h : envoyer invitation + pour mercredi faire chapitre et l'envoyer par mail

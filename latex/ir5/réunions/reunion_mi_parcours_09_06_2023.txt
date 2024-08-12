@@ -1,0 +1,54 @@
+avant réunion
+    mémoire
+        faire sommaire
+        réfléchir partie scientifique...
+    sommaire
+        introduction
+        contexte global
+            ssi schaefer
+            morpheus
+            application existante
+            solutions possibles
+            solutions retenue
+        conception
+
+pendant réunion
+    abordé point économique : quels vont être les apports économiques
+    faire des présentations pour avoir un support..
+
+    chaque 15 jours envoyer un rapport sur un aspect..
+        aspect financier
+        aspect humain
+
+    pour chaque point faire une présentation
+
+    poser le contexte
+    plus parler de la conduite du projet que du projet en lui-même
+
+
+    faire une deuxième réunion
+        faire une présentation
+            contexte
+            solutions possibles
+            solution retenue
+            diagramme de gantt
+            schéma de fonctionnement de l'application
+    
+    poser une réunion pour la dernière semaine de juin..
+    proposer un doodle pour la dernière semaine de juin..
+
+    faire compte-rendu de cette réunion
+
+après réunion (avec Thierry)
+    renvoyer les documents de présentation de la soutenance à Thierry
+    travailler l'accroche
+        l'entreprise
+        le service informatique
+    projet
+        a plus un aspect stratégique et communication
+    
+
+    aspect financier
+        former les gens à react..
+
+    voir si mémoire confidentiel ou pas

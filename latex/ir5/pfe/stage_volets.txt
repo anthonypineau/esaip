@@ -1,0 +1,27 @@
+Bonjour Pauline,
+
+Voici les informations dont je dispose sur le contenu à mettre dans les parties que tu as citées :
+    - partie ressources humaines :
+        gestion de projet : réunions au cours d'un projet..
+
+        exemple d'un camarade dont le sujet a été validé par l'ESAIP :
+        "Le stagiaire aura l’opportunité de participer à la chefferie de projet sur des missions annexes à son sujet de stage. Il pourra ainsi assister aux réunions d’ouverture et de restitution des projets, au pilotage des prestations et, en fonction des besoins et des critères de confidentialité, aux autres interventions nécessaires au cours des missions."
+
+    - partie économique :
+        cela intervient dans l'aspect financier du projet : chiffrage du projet...
+
+        exemple d'un camarade dont le sujet a été validé par l'ESAIP :
+        "Le stagiaire aura l’opportunité de participer aux propositions commerciales et notamment au chiffrage de projets du pôle Audit, Pentest & First Responder."
+
+    - partie technologique :
+        il faut ici indiquer les différentes technologies que je vais utiliser au cours du stage, par exemple pour le stage de l'année dernière cela aurait pu être : "développement android avec le langage java, utilisation des technolgies XML et JSON, utilisation d'un projet développé à l'aide de Windev mobile ..."
+
+        exemple d'un camarade dont le sujet a été validé par l'ESAIP :
+        "Durant sa mission principale, le stagiaire utilisera des technologies de scripting afin d’appliquer les techniques d’OSINT de manière automatique. Ces technologies comprennent mais ne se limitent pas à Python, GoLand, Bash et l’ensemble des technologies web. Il devra également utiliser des techniques et méthodologies d’OSINT qui seront considérées comme des outils dans la réalisation de ce projet."
+
+Si tu le souhaites, tu peux me transmettre le thème du stage afin que je puisse t'aider à remplir ces parties. Je te les renverrai complétées pour que vous puissiez les valider au niveau de l'entreprise. Nous pourrions aussi convenir d'un rendez-vous téléphonique si tu préfères pour qu'on le fasse ensemble.
+
+Je reste à ta disposition si tu as besoin d'autres informations.
+
+Cordialement,
+Anthony.

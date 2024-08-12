@@ -1,0 +1,341 @@
+jour 1 : arrivée + installation
+jour 2 : continuation installation : problèmes de réseaux...
+jour 3 : découverte des composants tms, système login..
+jour 4 : test des composants tms web..
+jour 5 : réunion Monsieur Gourdon point fonctionnalités, début cahier des charges, planning..
+
+
+semaine du 20 mars au 24 mars
+    lundi : test des composants tms
+    mardi : essai résolution problèmes réseaux : pas réussi + test composant tms + aide laurent le lay salle serveur..
+    mercredi : mise à jour des composants tms : pas mal de soucis + test composants encore
+    jeudi : réinstallation des composants tms car bug suite aux maj + continuation test composant : responsive, multi form, session
+    vendredi : maj linkedin + cdc + gantt + aide Charlotte palettes + point dev réporté à lundi + aide chargement camion pour le salon stil...
+
+semaine du 27 mars au 31 mars
+    lundi : test gestion des styles  (css) + serveur ftp...
+    mardi : gestion des onglets : finalement trouver la solution : passer par une div html.. maintenant problèmes au resize .... à voir se servir des onglets du navigateur plutôt qu'en interne ? (target = _blank) peut être intéressant mais comment retourner sur un autre onglet du navigateur quand clique dans le menu ?? problème resize pour les onglets qui ne sont pas actifs et qui ont été ouverts dans une autre taille d'écran + problème chrome un onglet sur deux bug de taille quand on ajoute (+ il semble que le problème se déroule que sur 15pouces), pas le problème sur firefox (pour deuxième partie mais bien pb changement taille écran).. même problème sur edge (chromium ??)
+    mercredi : mise à jour composants tms + ajout bouton fonctions + test responsive menu + icones
+    jeudi : création api pour test interaction avec la bdd + test de l'utilisation de l'api dans l'application web
+    vendredi : continuation travail interaction api + test site en html vanilla + point dev
+
+semaine du 3 avril au 7 avril
+    lundi : vérification mise à jour composants tms, campus passwords, continuation test site html vanilla... test plusieurs librairies pour le menu : demander des précisions si tous les boutons sont utiles si ça doit être rapide d'accès... les contraintes techniques sont trop imposantes...
+    mardi : pour gestion des styles : demander ce que l'utilisateur doit pouvoir modifier exactement : couleur ? position des éléments ?, continuation test site html vanilla : login + gestion fenêtre mdi + treeview + thème bootstrap..
+    mercredi : à voir utilisation api via html vanilla... faire système d'onglets..., login, reformatage...
+    jeudi : changement quelques parties + menu contextuel (clic droit..)
+    vendredi : congé
+
+semaine du 10 avril au 14 avril
+    lundi : férié
+    mardi : à voir problème background on resize + réessai utilisation api : problème avec les cookies (credentials include..) -> fini par trouver la solution, tout à l'air de fonctionner à voir, génération tableau via javascript + données via api.. : travailler scroll du tableau...
+    mercredi : voir suppression token à la fin de la session.. token de session ? à voir si on reste sur delphi ou si on passe en html javascript css, utilisation d'un framework ?? pour tableau à voir si clic ligne seulement ou clic cellule..
+    jeudi : faire et finir cahier des charges + rapport avancement + fonctionnement tableau + à voir responsive du fait des height modifiées... revoir tout ça , pour drag table à voir comment jquery le fait .. revoir site qui fonctionnait pas... + responsive login.. + réunion présentation travaux
+    vendredi : réunion Monsieur Gourdon avenir au sein de schaefer, je pars en Allemange... + point dev + problème cyberattaque
+
+semaine du 17 avril au 21 avril (télétravail : travaux bureau)
+    lundi : allé au bureau mais pc qui démarre pas donc télétravail comme prévu mais sans pc du coup découverte react
+    mardi : continuation découverte react... pc fonctionner à nouveau apparament, aller retour pour aller le chercher au bureau... faire des sauvegardes...
+    mercredi : installation pc ssi sur écran perso... + envoi cahier des charges et rapport avancement + réunion Thierry.. + première app react
+    jeudi : prise de contrôle du pc via "bureau à distance" + continuation app react
+    vendredi : continuation app react + point dev
+
+semaine du 24 avril au 28 avril (télétravail : travaux bureau)
+    lundi : continuation app react... trouver composant tables..
+    mardi : essayer composant ribbon de syncfusion.. : fonctionne pas .., prise de rendez-vous avec Monsieur Hamrioui, gestion mdi tabs, add remove, drag.. tabtab
+    mercredi : continuation test react : recherche composant.. + point avec Thierry + à voir test devexpress pour reactjs
+    jeudi : continuation app react + test devexpress...
+    vendredi : devexpress + point dev
+
+semaine du 1 mai au 5 mai
+    lundi :  férié
+    mardi : devexpress + recherche composant menu...
+    mercredi : ribbon menu (fini par fonctionner) mais à voir mettre un burger menu pour téléphone, à voir si besoin de le faire pour tablette ou pas
+    jeudi : menu antd : très bien, test composant devexpress : treeview, popup, changement thème graphique.. + réunion monsieur Hamrioui
+    vendredi : composants devexpress : datagrid + changement langue + point dev
+
+semaine du 8 mai au 12 mai
+    lundi : férié
+    mardi : ribbon menu : problème border tabs nav + collapsible..
+    mercredi : compte rendu réunion + chapitre 1 introduction + ribbon menu + display ribbon menu pour static...
+    jeudi : ribbon menu : remplacer border par outline sinon bug tout disparaît quand on clique sur la border + dropdown disparait menu.. + réunion Hamrioui (prend ses rendez-vous à la mairie alors qu'on est en réunion... attendu plus de 15 minutes..)
+    vendredi : ribbon + tabpanel + pas de point dev car problèmes teams...
+
+semaine du 15 mai au 19 mai (télétravail)
+    lundi : mémoire
+    mardi : mémoire + tabs panel + bug pop quand scroll..
+    mercredi : rapport avancement + mémoire + compte-rendu réunion.. + code un peu..
+    jeudi : férié
+    vendredi : tout et n'importe quoi
+
+semaine du 22 mai au 26 mai
+    lundi : rapport avancement + mémoire + compte-rendu réunion..
+    mardi : ribbon + tab + fenêtre type message teams Thierry.. : bug dropdown puis click ferme pas menu, refaire tout ça..
+    mercredi : (cardiologue le matin) backup + git + code un peu...
+    jeudi : code toolbar window
+    vendredi : code toolbar + form + datagrid
+
+semaine du 29 mai au 2 juin
+    lundi : code window type..
+    mardi : code window type.. (gérer quand filtre alors qu'edit une ligne, enlever edit + changer ligne en preview..) + focused after insert
+    mercredi : code window type.. disable edit button quand on edit ??
+    jeudi : code tabs : à voir bug quand load ou reload de la page (pas via reload react) apparait pas comme il faut.. : viens du sortable mais a priori que quand y a déjà des items à voir...
+    vendredi : tabpanel : gérer cas typo pas bonne pour composant : bug toolbar gridview fonctionne plus quand on move le tab..
+
+semaine du 5 juin au 9 juin
+    lundi : mémoire : étude de l'existant + solutions..
+    mardi : code : try to resolve bug toolbar gridview : solution is to disable drag and drop ? (not active on actual morpheus..) : same problem when adding tab after first load.. need to fix it.. peut-être disable drag and drop anyway beaucoup de lag sur le rerender.. il faut utiliser des functionnal components.. plus eval pour call method en dehors.. fonctionne toujours pas quand on ajoute puis drag and drop.. (peut-être du au fait qu'on ajoute plusieurs fois le même composant à moi..) il semblerait que les états soient liés mais bizarre car pas ce problème avec button... pas qu'avec le tab panel, problème de synchronisation des composants... (est-ce du à l'utilisation des mêmes données en dur ?) trouvé une solution qui à l'air de fonctionner (onclick sur chaque composant...) (faire des fc, cc old way) + à voir conserver état au rerender du tab panel... localsave maybe
+    mercredi : lecture doc react (react.dev) pour mieux comprendre comment tout ça fonctionne
+    jeudi : (dentiste le matin) + refactor code
+    vendredi : réunion mi-parcours + point avec Thierry + point dev (faire ajout tab depuis menu)
+
+semaine du 12 juin au 16 juin
+    lundi : serait peut-être plus performant de faire du paging au lieu de la toolbar et edit add delete via datagrid functions.., un peu de code hsitoire de tout remettre au propre..
+    mardi : trouvé une autre façon de coder la logique des composants devextreme : refactor complet ... : avance pas trop mais faut encore modifier des trucs..
+    mercredi : continuer refactor code + intégration tabview + je pense qu'il va falloir désactiver drag and drop.. à voir /  pour tab panel passer par des refs au lieu de usestate comme datagrid ? faire ça pour tous les components devextreme ?? pour tabpanel peut-être passer deferRendering à true.. / à voir synchronisation des datastore : espérons que c'est parce que c'est le même fichier de données et pas à cause que c'est la même composant.. (sinon créer des instances du composant ?) / à voir plutôt que context si pas utiliser reducer et context...
+    jeudi : problème de synchronisation des tabs... (à voir mais probablement juste problème de même données) : après rapide test cela a bien l'air de venir juste du fait que ce soit le même données, à confirmer quand même.. / fermer popup column chooser quand click outside sinon reste sur les autres tabs.. / update devextreme v23.1.. / remettre le onOptionChanged pour quand on filtre.. / onOptionChanged ne fonctionne plus, le rechanger..
+    vendredi : un peu de code + rapport avancement + mémoire.. + point dev..
+    Thierry en vacances du 30 juin au 17 juillet
+    service -> lancement requête une fois api en marche..
+
+semaine du 19 juin au 23 juin
+    lundi : rapport avancement + mémoire : changer la problématique d'une question à une "affirmation" : trouver sujet scientifique associé..
+    mardi : mettre packages npm à jour ... (à faire)+ code un peu / pour tab panel faire un composant générique qui peut ajouter les éléments enfants qu'on lui passe.. : fait mais à voir si on peut améliorer.. + faire comme components tabpanel aussi ? + voir key prop.. toujours pour GenericComponent.. / avec maj : trouver solution pour item form editor type : fixé, ça à l'air bon / pour settings (langue, thème) plutôt que dans menu faire une vue à part ? / pour treeview à voir quand api sera là : load data on demand... / à voir tabpanel changement tabs ne fonctionne pas en build.. : mettre onOptionChanged et index en useState et le changer.. / gridview ne fonctionne pas bien aussi en build, toolbar ne fonctionne pas.. obligé d'utiiser des useState ? il semblerait que oui donc à voir comment combiner ref et usestate sinon tout repasser en usestate en faisant remonter les états et les fonctions... (usecontext et reducer ??)
+    mercredi : pour problèmes d'hier à voir si on peut pas utiliser useEffect.. : je pense qu'il va forcément falloir passer pas des useState.. : ce qui est bizarre c'est que ref fonctionne pour certains componsants mais pas pour tous... peut-être grâce au datasource qui reload.. : pas le choix d'utiliser useState.. / peut-être que je manque quelque chose comme je connais pas bien react mais bon essayons de faire quelque chose qui fonctionne.. du coup du code pour aujourd'hui quoi ^^
+    jeudi : code: connection api rest : à voir comment tout ça fonctionne ...
+    vendredi : point dev + code api rest...
+
+semaine du 26 juin au 30 juin (télétravail)
+    lundi : mémoire
+    mardi : mémoire
+    mercredi : code
+    jeudi : regarder si possible d'exporter la configuration entière du datagrid pour le réafficahge .. (colonnes affichées, largeur..) + faire un reset.. : pouvoir faire une présentation à Monsieur Gourdon au retour de Thierry..
+    vendredi : point dev  : table commençant par RFAD + pour libelle : LANG_LIBELLE + LANG_LIBELLE_TRADUCTION, pour liaisons entre table clés étrangères pas dans le SGBD, à voir comment gérer ça
+
+semaine du 3 juillet au 7 juillet (télétravail)
+    lundi : mémoire... logiciel pour faire schéma architecture application ? parties en allemand : introduction + présentation du projet
+    mardi : mémoire...
+    mercredi : mémoire : cahier des charges en anglais : demander à thierry si vu que en react faut pas mieux le mettre à jour.. /  demander à Hamrioui si il faut seulement mettre la version finale du cahier des charges ou s'il faut mettre les différentes évolutions.. puisqu'au départ le projet devait être fait en delphi mais du coup react / confirmer que pas besoin de mettre de traduction pour les parties en anglais..
+    jeudi : dois-je me présenter ? présenter l'esaip ? ou que ssi ? / est-ce que les 5 minutes d'allemand (d'anglais) doivent être consécutives ?
+    il va falloir refaire le powerpoint au propre.. : pied de page, mise en forme ...
+    réunion Hamrioui
+    code un peu + database..
+    vendredi : code + point dev..
+
+semaine du 10 juillet au 14 juillet
+    lundi : problème pour load config : maximum call stack size exceeded : à voir si fix dans les futures versions, sinon store prop by prop
+    code..
+    mardi : code save state datagrid... : à voir pourquoi update fonctionne pas...
+    mercredi : continuer save state datagrid : à voir mettre temps pour bien que ça sauvegarde.. / apparament problèmes columns liés au form.. peut-être pas, mais pour sûr lié au save..
+    jeudi : il semblerait que des fois ça soit le react script (dev version) qui fasse bugué le state storing.. : mais pas le plus important / il semblerait que le vrai problème vienne de setFocusedRowKey() (useState hook).. bien un problème du hook state car bug aussi avec la toolbar quand on change de row.. : apparament le state storing ne fonctionne pas en build... : à voir quelles sont les différences entre dev et build parce qu'il y a l'air d'avoir beaucoup de différences... peut-être relire doc react..
+    vendredi :
+
+semaine du 17 juillet au 21 juillet
+    lundi : code...
+    mardi : code : problème résolu pour state storing : juste à rendre save state async ... / par contre bug toujours aund refresh via react script.. + ne fonctionne toujours pas en build : à voir si problème ou pas quand on ajoute tab sinon osef : fonctionne pas dans tab même en dev.. à voir.. : fonctionne meême plus en normal : pourquoi ? aucune logique... : apparement juste au niveau du column chooser... : bien à cause des state car plus de problèmes quand on enlève focusedrow..
+
+    autre bug : bykey ne fonctionne pas pour 0 ... + save state storing setFocusedRowKey quand 0 : à voir : peut-être just éviter d'utiliser 0 comme id..
+
+    pour le moment setFocusedRowKey dans loadstate semble fonctionner (en dev mode en tout cas) : mais fonctionne pas quand toolbar.. : vraiment un problème avec state, à voir comment gérer ça..
+        mais bug en build focusedRowKey ne s'affiche pas plus statestoring ne fonctionne toujours pas.. : le tester en solo en build pour voir si ça vient du framework ou de ma config... / changer pour selectedRowKeys ? ou index ? mais plus de calcul/conversion...
+    réessayer avec ref ?
+    sur la démo fonctionne avec selection, mais pas de state...
+    essayer onrowchanging plutôt que onrowchanged ? change rien car problème avec le changement d'état pas le reste..
+    pour certaines variables : utiliser localstorage à la place de state ??
+    sinon à voir utiliser le système d'edit par défaut du datagrid : ça serait probablement plus simple
+    peut-être que lier les composants n'est pas une bonne idée.. à voir..
+
+    mercredi : (ophtalmo le matin)
+
+    code : apparament pour utiliser ref il faut qu'il n'y est pas de state sur la même variable : à vérifier permettrait peut-être qu'il y est moins de bug...
+
+    pour toolbar : vaut-il pas mieux tout codé en dur et mettre en bdd que visible ou non traduction...
+
+    voir pourquoi en build le datagrid se reset au chargement... : non ba c'est bon fallait juste enlever setFocusedRowKey qui est state donc faut juste bien pas mettre de state ...
+
+    jeudi : code : à voir pour datebox datetime problème 2 heures de décalage... à voir si moyen de le faire direct sinon faire fonction pour le faire.. et à voir pour update/create.. à voir si l'utillisateur peut les modifier..
+    à voir type columns datagrid.. : solution temporaire à voir avec Thierry comment on veut gérer ça..
+    pour classe générale dans mph actuel la date n'apparaît pas dans le form à voir si pareil pour tous..
+    pour items l'heure dans le tableau et celle dans la bdd mais pas modifiable apparament
+    vendredi : updates + point dev + voir si pour oral faire un résumé français des choses dites en allemand et en anglais..
+
+semaine du 24 jullet au 28 juillet
+    lundi : rapport avancement + mémoire + mail hamrioui
+    mardi : code.. : plus ça va plus je me dis qu'essayer de faire gridview n'est pas le plus pratique...
+    mercredi : code : voir pour le thème du menu vu que pas un composant devexpress..
+    jeudi : code : voir en build radio buttons ne fonctionnent pas.. : juste à utiliser les setState et c'est bon..
+    mémoire
+    vendredi : mémoire + point dev : à voir si on peut charger dictionnaire seulement pour un composant ou si obligé de load pour toute l'application
+    pour semaine prochaine : finir fenêtre type : form, form item, traductions.. + noms colonnes datagrid..
+
+    table commençant par RFAD + pour libelle : LANG_LIBELLE + LANG_LIBELLE_TRADUCTION, pour liaisons entre table clés étrangères pas dans le SGBD, à voir comment gérer ça
+    tester si possible de charger traduction composant pas composant..
+
+semaine du 31 juillet au 4 août
+    lundi : code..
+    mardi : code : charger tout le dictionnaire de traduction prendrait-il tant de temps que ça ? permettrait de simplier le chargement : juste à mettre la clé dans les propriétés des composants et pas besoin en plus de charger les bonnes traductions..
+    à voir si on peut charger les traductions langue par langue (en plus de composant par composant...)
+    il semble que oui donc pas de problèmes pour faire ça à priori (à voir tester en build^^)
+    mercredi : code
+    jeudi : mémoire
+    vendredi : code + mémoire
+
+semaine du 7 août au 11 août
+    lundi : mémoire...
+    mardi : mémoire + code...
+    mercredi : code...
+    jeudi : mémoire + help comm regarde site 
+    vendredi : code
+
+dl site preview pour info intralogistique...
+
+semaine du 14 août au 18 août (congés)
+
+semaine du 21 août au 25 août (congés)
+
+semaine du 28 août au 1 septembre
+    lundi : reprise, mise à jour pc, mémoire..
+    mardi : mémoire: partie scientifique
+    mercredi : mémoire.. à voir faire commande pour ref name section... pour footnote..
+    jeudi : mémoire : pour après à voir mise en page, glossaire, index, bibliographie... / expliquer différence client et site web.. ne pas confondre à voir..
+    vendredi : mémoire + point dev
+
+    finir diagramme classe et l'utiliser dans mémoire..
+    refaire diagramme de gantt...
+    envoyer mail Hamrioui...
+
+    pour api sécuriser l'accès avec un token.. à voir ce que je trouve sur internet...
+    plus voir redémarrage auto lors qu'erreur qui fait crash...
+    à voir gérer responsive
+        à voir comment est gérer le responsive actuellement
+        à voir si le framework devextreme le gère un peu par défaut...
+        questions qui peuvent être posées lors de la soutenance (selon Thierry)..
+
+    
+
+
+    regarder si j'ai accès à confluence pour documenter tout le projet
+        documenter toute la procédure d'installation pour lancer le projet (nodejs, ...)
+
+    ce week-end avancer mémoire + cv lettre de motivation + commencer préparer soutenance : powerpoint, test pointeur, voir chronomètre...
+
+semaine du 4 septembre au 8 septembre (autorisation de Thierry pour travailler sur mon mémoire toute la semaine...)
+    lundi : mémoire : faut vraiment travailler...
+    mardi : mémoire : mettre cahier des charges en annexes (donc pas en anglais)
+    pour parties en allemand : introduction et conclusion (devrait suffir:apparement pas, erreur de calcul ^^)
+    à voir pour parties en anglais...
+    pour être sûr citer mémoire Charlotte pour partie présentation entreprise..
+    expliquer que le projet dure plus longtemps que mon stage..
+
+    mercredi : mémoire
+
+    à voir package babel.. (french, english german)
+    à voir ne pas mettre paragraphe dans la table des matières..
+
+    jeudi : mémoire
+
+    à voir mettre capture d'écran de l'appliaction réalisé en delphi..
+
+    vendredi : mémoire
+    voir indentation subparagraph
+
+semaine du 11 septembre au 15 septembre (à voir finir code + documenter..)
+    lundi : mémoire
+        à voir partie méthodologie si plus détailler dans le corps ou en annexe..
+        à voir changer nous par je, peut-être pas partout...
+        pour outils technologiques mettre des précisions en annexes + lien site à voir..
+        faire parties prenantes..
+        voir pour oe
+        parler de typescript..
+        expliquer le fonctionnement d'une api en annexe..
+
+
+    mardi : mémoire + documentation confluence
+    
+    mercredi : mémoire + confluence
+        parler que l'API fonctionne en CRUD..
+        
+        à voir pourquoi ref bibliographie lien (jump when click) parfois fonctionne et parfois fonctionne pas
+
+        partie financière : 
+    jeudi : mémoire
+    pour la conclusion doit tenir sur une page (max 2) pour les trois langues..
+
+    si pas de réponse de Hamrioui pour la partie financière le relancer + lui demander la taille qu'est supposée avoir le résumé..
+
+    vendredi : mémoire
+        faire annexe architecture client serveur.. à voir mettre glossaire : pareil pour client léger...
+        faire glossaire pour bibliothèque logicielle
+        pour l'analyse comparative : dire que c'est la cas générale mais pas toujours le cas: exemple de morpheus qui ne peut pas fonctionner sans la bdd
+        pas oublier de voir pour bien placer les images...
+        pour communication présicer qu'on est en open space donc facile pour communiquer...
+        finir déroulement du projet..
+        faire cyberattaque au sein de l'entreprise..
+        pour comparatif technique entre devextreme et tms faire un tableau..
+
+préparer une présentation/soutenance blanche pour vendredi 14h + démo... 
+    un peu plus synthétique
+    + démo, finir code vite fait + doc confluence...
+    15-20 minutes
+
+semaine du 18 septembre au 22 septembre
+    lundi : mémoire + gantt + confluence..
+        à voir solutions pour figures..
+        reste quelques parties écrites mais surtout de la mise en page..
+
+    mardi : fin mémoire..
+        pour subsubparagaph à voir part mais problème toc.. à voir..
+        changer toc formatting..
+        title formatting..
+        finir glossaire (+ mettre terme cadre théorique et rediriger vers cette partie..)
+            bibliothèque logicielle
+        changer section en part dans les messages...
+        faire annexe crud..
+        faire trad anglais vers français objectifs détaillés de déroulement du projet..
+
+
+    mercredi : fin mémoire...
+        format table des figures..
+        mettre glossaire outils technologiques comme cadre théorique..
+        changer part section annexes.. appendix..
+        code produit react et devextreme...
+        pour impact financer solution retenue, peut ajouter qu'il faut payer delphi en plus alors que js non...
+        mettre glossaire en annexe
+        sinon juste mettre crud dans glossaire..
+        mettre sources des images
+        trad anglais en français dans annexe..
+
+        relire, tout vérifier, mettre nombre caractères..
+    jeudi : confluence, rapport avancement, soutenance, code...
+    vendredi : derniers trucs avant départ
+
+soutenance : jeudi 12 octobre 2023 de 8h30 à 10h
+
+à voir si l'application est accessible pour tous les clients par internet ou si chaque client héberge sa propre application sur un serveur privé et donc accessible qu'en local..
+lorsque l'utilisateur refresh la page faut-il repartir du login ?
+
+SMALL int : 0 à 255
+
+• Thème du stage :
+    Développement d’un nouveau client léger Morpheus en HTML 5 et Delphi
+• Intérêt du projet pour l’entreprise (1 à 2 lignes) :
+    Développement d’un nouveau client Morpheus avec un nouveau design et compatible avec les technologies web
+• Description de la mission (5 à 6 lignes) :
+    Etude des composants TMS pour le développement en Delphi X10, 2 pages HTML5
+    Construction d’un nouveau projet d’un nouveau client Morpheus
+    Définition d’une nouvelle interface graphique
+    Etude d’un mode de paramétrage graphique par l’utilisateur final
+    Développement d’une maquette
+• Description du sujet scientifique (5 à 6 lignes)
+    Intégration du Pascal objet pour générer du HTLM5
+• Description du volet ressources humaines (5 à 6 lignes)
+    Durée hebdomadaire : 35h
+    Droit au tickets restaurant
+    Le stagiaire participera à l’ensemble des réunion du services IT et aux réunions groupes concernant son service
+• Description du volet économique (5 à 6 lignes)
+    Rémunération de 1234.18€ brut mensuel versée par virement
+• Description du volet technologique (5 à 6 lignes)
+    Développement de la technologie HTML 5 sous Delphi X10 en Pascal et génération et lecture fichier XML.
+    Intégration d’un serveur rest pilotant en JSON
+• Description du volet international (5 à 6 lignes)
+    Le logiciel développé devra être multi langue et l’ensemble du code devra être en anglais

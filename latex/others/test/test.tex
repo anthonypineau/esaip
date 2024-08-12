@@ -1,0 +1,67 @@
+%\documentclass{article}
+
+\documentclass[a4paper,11pt]{article}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+%\usepackage{lmodern}
+%\usepackage{microtype}
+%\usepackage{hyperref}
+
+\title{Title of my document}
+\date{2013-09-01}
+\author{John Doe}
+\begin{document}
+	\maketitle
+	\pagenumbering{gobble}
+	\newpage
+	\pagenumbering{arabic}
+	%sommaire
+	\tableofcontents
+	\newpage
+
+	\section{Section}
+		Hello World!
+		\subsection{Subsection}
+			Structuring a document is easy!
+			\subsubsection{Subsubsection}
+				More text.
+				\paragraph{Paragraph}
+					Some more text.
+					\subparagraph{Subparagraph}
+						Even more text.
+	\section{Another section}
+
+\section*{Introduction}
+   \addcontentsline{toc}{section}{Introduction}
+      texte de l’introduction
+
+   \section{Première section}
+      texte d’introduction de la première section
+      \subsection{Sous-section 1}
+         texte de la sous-section 1
+      \subsection{Sous-section 2}
+         texte de la sous-section 2
+      \subsection{Sous-section 3}
+         texte de la sous-section 3
+   
+   \section{Une deuxième section avec une sous-section}
+      texte d’introduction de la deuxième section
+      \subsection{Sous-section 1}
+         texte de la sous-section 1
+      \subsection{Sous-section 2}
+         texte de la sous-section 2
+   
+   \section*{Conclusion}
+   \addcontentsline{toc}{section}{Conclusion}
+      texte de la conclusion 
+   
+   \appendix  % On passe aux annexes
+   \section{Annexe 1}
+       texte de l’annexe 1 
+  
+   \section{Annexe 2}
+      texte de l’annexe 2
+
+
+\end{document}

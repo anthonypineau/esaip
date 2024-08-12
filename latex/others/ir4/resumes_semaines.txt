@@ -1,0 +1,31 @@
+Semaine 1 du 4 au 8 juillet
+    Lundi : arrivée, installation du poste de travail, de l'environnement de travail : windev, android studio, sql management..
+        découverte de l'équipe
+    Mardi : premiers test
+    Mercredi : Réunion avec Thierry, Sébastien et Monsieur Gourdon pour mettre au point les attentes du stage/projet...
+    Jeudi :
+    Vendredi : 
+
+Semaine 2 du 11 au 15 juillet
+    Lundi : implémentation changement de langue plus gestion asynchrone de la connexion à la bdd ..
+    Mardi : continuation de la gestion asynchrone de la connexion à la bdd + dialogfragment + compréhension fonctionnement socket + fonctions..
+    Mercredi : continuation gestion asynchrone bdd + login
+    Jeudi : férié
+    Vendredi : gestion thread
+
+Semaine 3 du 18 au 22 juillet
+    Lundi : continuation gestion thread..
+    Mardi : finalement trouvé pour les threads
+    Mercredi : commencer à faire les fenêtres, fragments de base, ...
+
+Semaine 4 du 25 au 29 juillet
+    Lundi : 
+    Mardi : 
+    Mercredi : ExtendableListView
+    Jeudi :
+    Vendredi :
+
+Déterminer date soutenance : 
+    Vendredi 2 septembre 17h-18h
+
+Rendez-vous mi-parcours:

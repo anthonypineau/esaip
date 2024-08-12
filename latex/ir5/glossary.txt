@@ -1,0 +1,40 @@
+termes à ajouter au glossaire/acronymes :
+    //client lourd
+    //application web
+    //??
+    client léger (Cadre théorique > Application Web)
+    terminal (enjeux et importances > objetifs globaux)
+    api (un peu partout..)
+    frontend
+    backend
+    edi:environnement de développement intégré (méthodologie et outils > outils technologiques > delphi)
+    langage de programmation
+    orient objet
+    framework
+    hypertexte
+    scripts
+    XML
+    open source
+    DOM
+    modele mvc (en annexe)
+    logiciel de gestion de versions décentralisé (annexe)
+    sgbd (à voir si glossaire ou annexe)
+    uml
+    erp
+    vpn
+
+index...
+à voir pour indexer les termes du glossaires sinon index d'autres mots à voir..
+le plus simple serait de supprimer l'index..
+si le temps à voir pour que ça fonctionne sinon fuck it...
+
+à voir mettre comparatif technique devextreme / tms en annexe...
+
+delphi subsection:delphi
+tms subsubsection:tms
+html subsection:html
+css subsection:css
+javascript subsection:javascript
+reactjs subsubsection:react
+devextreme subsubsection:devextreme
+devexpress
